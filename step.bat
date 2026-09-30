@@ -51,7 +51,7 @@ if errorlevel 1 (
 
 echo Installing the page...
 pushd "frontend\search_agent"
-call npm install
+call npm install --legacy-peer-deps
 if errorlevel 1 (
   popd
   pause
