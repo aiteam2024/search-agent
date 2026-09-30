@@ -1,5 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { Project } from '../types/circuithub';
+import { getApiBaseUrl } from '../services/api';
 import { useTheme } from '../context/ThemeContext';
 import {
   FolderKanban,
@@ -88,7 +89,11 @@ export const Header: React.FC<HeaderProps> = ({
                 isBackendConnected === true ? 'bg-[#059669] animate-pulse' : 'bg-rose-500'
               }`}
             />
-            <span>{isBackendConnected === true ? 'localhost:8000' : 'Offline (:8000)'}</span>
+            <span>
+              {isBackendConnected === true
+                ? getApiBaseUrl().replace(/^https?:\/\//, '')
+                : 'Offline (:8000)'}
+            </span>
           </button>
         </div>
 

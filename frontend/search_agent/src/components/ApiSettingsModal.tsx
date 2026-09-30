@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import {
+  defaultApiBaseUrl,
   getApiBaseUrl,
   setApiBaseUrl,
   testBackendConnection,
@@ -185,10 +186,10 @@ export const ApiSettingsModal: React.FC<ApiSettingsModalProps> = ({
             <div className="mt-1.5 flex gap-2">
               <button
                 type="button"
-                onClick={() => setUrl('http://localhost:8000')}
+                onClick={() => setUrl(defaultApiBaseUrl())}
                 className="text-[11px] text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 underline"
               >
-                Reset to http://localhost:8000
+                Reset to {defaultApiBaseUrl()}
               </button>
               <span className="text-slate-400">·</span>
               <button
