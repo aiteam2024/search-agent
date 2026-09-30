@@ -16,12 +16,8 @@ import {
 
 export const DEFAULT_API_BASE = 'http://localhost:8000';
 
-/** API on the same computer that served this page, so another PC does not call itself. */
+/** The API running on this same computer. */
 export function defaultApiBaseUrl(): string {
-  if (typeof window !== 'undefined' && window.location.hostname) {
-    const protocol = window.location.protocol === 'https:' ? 'https:' : 'http:';
-    return `${protocol}//${window.location.hostname}:8000`;
-  }
   return DEFAULT_API_BASE;
 }
 
