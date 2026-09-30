@@ -1,0 +1,6 @@
+{
+  "name": "CircuitHub",
+  "description": "Component price comparison, SMD lookup, datasheet viewer, and bill of materials (BOM) management for electronics engineers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

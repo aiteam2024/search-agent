@@ -1,0 +1,3452 @@
+[
+  {
+    "title": "ESP32",
+    "link": "https://www.etstore.in/products/c5815",
+    "status": "verified"
+  },
+  {
+    "title": "N20 Motor",
+    "link": "https://www.amazon.in/N20-3-7V-Reduction-gearbox-making/dp/B09XXTKV1F",
+    "status": "verified"
+  },
+  {
+    "title": "L298N Based Motor Driver Module \u2013 2A",
+    "link": "https://robu.in/product/l298-based-motor-driver-module-2a",
+    "status": "verified"
+  },
+  {
+    "title": "display",
+    "link": "https://robu.in/product/0-96-inch-i2c-iic-oled-lcd-module-4pin-with-vcc-gnd-white/",
+    "status": "verified"
+  },
+  {
+    "title": "battery",
+    "link": "https://robu.in/product/dmegc-inr18650-26e-3-7v-2600mah-li-ion-battery/",
+    "status": "verified"
+  },
+  {
+    "title": "battery holder",
+    "link": "https://robu.in/product/black-plastic-storage-box-case-holder-battery-3-x-18650-cell-box-without-cover",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Switch",
+    "link": "https://robu.in/product/6a-250v-ac-spst-on-off-rocker-switch",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Buck Converter",
+    "link": "https://robu.in/product/lm2596s-dc-dc-buck-converter-power-supply/",
+    "status": "verified"
+  },
+  {
+    "title": "IR sensor",
+    "link": "https://robu.in/product/ir-infrared-obstacle-avoidance-sensor-module",
+    "status": "verified"
+  },
+  {
+    "title": "Dot PCB",
+    "link": "https://robu.in/product/10-x-10-cm-universal-pcb-prototype-board-single-sided-2-54mm-hole-pitch",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Resettable Fuse",
+    "link": "https://www.etstore.in/products/h6492",
+    "status": "high-confidence"
+  },
+  {
+    "title": "DC motor",
+    "link": "https://www.etstore.in/products/h6073",
+    "status": "verified"
+  },
+  {
+    "title": "Ultra sonic sensor",
+    "link": "https://robu.in/product/hc-sr04-ultrasonic-range-finder/",
+    "status": "verified"
+  },
+  {
+    "title": "LDO 5V REGULATOR",
+    "link": "https://www.etstore.in/products/a1653",
+    "status": "high-confidence"
+  },
+  {
+    "title": "LDO 5V REGULATOR 2 TO252",
+    "link": "https://www.etstore.in/products/a1333",
+    "status": "high-confidence"
+  },
+  {
+    "title": "wheel",
+    "link": "https://robu.in/product/3pi-miniq-car-wheel-tyre-42mm-n20-dc-gear-motor-wheel",
+    "status": "high-confidence"
+  },
+  {
+    "title": "servo 996 180degree",
+    "link": "https://www.etstore.in/products/h6101",
+    "status": "verified"
+  },
+  {
+    "title": "servo bracket",
+    "link": "https://www.etstore.in/products/h6102",
+    "status": "high-confidence"
+  },
+  {
+    "title": "servo tester",
+    "link": "https://www.etstore.in/products/h6121",
+    "status": "high-confidence"
+  },
+  {
+    "title": "bldc motor",
+    "link": "https://www.etstore.in/products/c5282",
+    "status": "high-confidence"
+  },
+  {
+    "title": "bldc",
+    "link": "https://www.etstore.in/products/c5283",
+    "status": "high-confidence"
+  },
+  {
+    "title": "IR led receiver",
+    "link": "https://www.etstore.in/products/h6501",
+    "status": "high-confidence"
+  },
+  {
+    "title": "SimonK 30A BLDC ESC Electronic Speed Controller ET5472",
+    "link": "https://www.etstore.in/products/c5472",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Nano ATmega328PB Controller Board clone Unsoldered",
+    "link": "https://www.etstore.in/products/c5178",
+    "status": "high-confidence"
+  },
+  {
+    "title": "nano cable",
+    "link": "https://www.etstore.in/products/g7247",
+    "status": "high-confidence"
+  },
+  {
+    "title": "ribbon cable",
+    "link": "https://robu.in/product/gray-flat-ribbon-cable-20-wires-per-1-meter",
+    "status": "high-confidence"
+  },
+  {
+    "title": "MG90S Micro Servo motor",
+    "link": "https://www.etstore.in/products/h6098",
+    "status": "verified"
+  },
+  {
+    "title": "ptfe tube",
+    "link": "https://robu.in/product/ptfe-2x4mm-teflon-tubing-for-3d-printers-1-75mm-filament-1m",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Ender-3 V2 Hotend Kit",
+    "link": "https://robu.in/product/ender-3-v2-hotend-kit",
+    "status": "high-confidence"
+  },
+  {
+    "title": "OG16161-NFST DISPLAY",
+    "link": "https://www.componentsense.com/stock/1032193/OG16161-NFST",
+    "status": "verified"
+  },
+  {
+    "title": "4-20mA to 5V Converter",
+    "link": "https://robu.in/product/4-20ma-to-5v-converter-for-arduino-industrial-sensor-interface-board",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Voltage to Current Module 0-5V to 4-20mA Current Transmitter Signal",
+    "link": "https://robu.in/product/voltage-to-current-module-0-5v-to-4-20ma-current-transmitter-signal",
+    "status": "high-confidence"
+  },
+  {
+    "title": "4 to 20 ma tester",
+    "link": "https://robu.in/product/sg-002-analog-0-12v-4-20ma-signal-generator-for-plc-and-panel-debugging-device-testing",
+    "status": "high-confidence"
+  },
+  {
+    "title": "dc clamp meter",
+    "link": "https://robu.in/product/htc-cm-2046-clampmeter",
+    "status": "high-confidence"
+  },
+  {
+    "title": "can bus scanner",
+    "link": "https://robu.in/product/weact-studio-usb-to-can-module-analyzer-usb-to-canfd-canbus-analyzer-debugger-slcan-cangaroo",
+    "status": "high-confidence"
+  },
+  {
+    "title": "can to ttl",
+    "link": "https://robu.in/product/can-bus-to-ttl-serial-port-converter-adapter-communication-module",
+    "status": "high-confidence"
+  },
+  {
+    "title": "vaccume de soldering station",
+    "link": "https://robu.in/product/yihua-948-iii-3-in-1-desoldering-rework-110w-soldering-iron-welding-solder-suck-vacuum-pick-up-pen-desoldering-soldering-station",
+    "status": "high-confidence"
+  },
+  {
+    "title": "portable buck",
+    "link": "https://robu.in/product/xl4015-5a-variable-voltage-current-step-down-power-module-with-dual-led-display",
+    "status": "high-confidence"
+  },
+  {
+    "title": "3A buck with display",
+    "link": "https://robu.in/product/dual-display-3a-dc-dc-5-23v-to-0-16-5v-step-down-power-supply-buck-converter-adjustable-lcd-step-down-voltage-regulator",
+    "status": "high-confidence"
+  },
+  {
+    "title": "6 Flexible Arms Soldering Station With Swiveling Alligator Clip",
+    "link": "https://robu.in/product/six-flexible6-arm-soldering-station-wo-usb-fan",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Arduino UNO r3",
+    "link": "https://www.etstore.in/products/c5177",
+    "status": "verified"
+  },
+  {
+    "title": "Adaptor 12V 2A",
+    "link": "https://robu.in/product/orange-12v-2a-power-supply-with-5-5mm-dc-plug-adapter/",
+    "status": "verified-replaced"
+  },
+  {
+    "title": "ldo",
+    "link": "https://www.etstore.in/products/e9819",
+    "status": "high-confidence"
+  },
+  {
+    "title": "5S 15A 18650 Lithium Battery Protection Board",
+    "link": "https://robu.in/product/5s-25a-18650-lithium-battery-protection-board",
+    "status": "high-confidence"
+  },
+  {
+    "title": "servo motor",
+    "link": "https://www.etstore.in/products/h6095",
+    "status": "high-confidence"
+  },
+  {
+    "title": "buzzer",
+    "link": "https://www.etstore.in/products/c5577",
+    "status": "high-confidence"
+  },
+  {
+    "title": "servo 996",
+    "link": "https://www.etstore.in/products/h6101",
+    "status": "high-confidence"
+  },
+  {
+    "title": "limit switch",
+    "link": "https://robu.in/product/horizontal-type-mechanical-limit-switch-module-with-cable",
+    "status": "high-confidence"
+  },
+  {
+    "title": "hotend",
+    "link": "https://robu.in/product/creality-hotend-kit-for-ender-3-max",
+    "status": "high-confidence"
+  },
+  {
+    "title": "fan 24 v",
+    "link": "https://robu.in/product/a423-fs4020x24v-brushless-dc-cooling-fan-with-2pin-cable-for-3d-printer",
+    "status": "high-confidence"
+  },
+  {
+    "title": "esp32 3pin",
+    "link": "https://www.etstore.in/products/esp-wroom-32-esp32-30pin-cp2102-development-board-et5165-copy",
+    "status": "high-confidence"
+  },
+  {
+    "title": "mg90",
+    "link": "https://www.etstore.in/products/h6098",
+    "status": "high-confidence"
+  },
+  {
+    "title": "mg996",
+    "link": "https://www.etstore.in/products/h6101",
+    "status": "high-confidence"
+  },
+  {
+    "title": "JST CRIMP TERMINAL 2.54mm",
+    "link": "https://www.etstore.in/products/e9466",
+    "status": "high-confidence"
+  },
+  {
+    "title": "RMC Terminal crimp 2510 ET8417",
+    "link": "https://www.etstore.in/products/b8417",
+    "status": "high-confidence"
+  },
+  {
+    "title": "OG16161-NFST",
+    "link": "https://www.componentsense.com/stock/1032193/OG16161-NFST",
+    "status": "verified"
+  },
+  {
+    "title": "Motor driver DRV8833",
+    "link": "https://www.etstore.in/products/c5728",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Motor driver L298N",
+    "link": "https://www.etstore.in/products/c5186",
+    "status": "high-confidence"
+  },
+  {
+    "title": "DC 12v motor",
+    "link": "https://www.etstore.in/products/h6076",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Ultrasonic sensor",
+    "link": "https://www.etstore.in/products/c5220",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Rotary encoder",
+    "link": "https://www.etstore.in/products/c5353",
+    "status": "high-confidence"
+  },
+  {
+    "title": "JoyStick Module",
+    "link": "https://www.etstore.in/products/c5206",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Arduino nano",
+    "link": "https://www.etstore.in/products/d11090",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Servo motor MG90S",
+    "link": "https://www.etstore.in/products/h6098",
+    "status": "high-confidence"
+  },
+  {
+    "title": "DC motor wheel",
+    "link": "https://www.etstore.in/products/h6078",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Opto coupler",
+    "link": "https://www.etstore.in/products/a1394",
+    "status": "high-confidence"
+  },
+  {
+    "title": "UC3843",
+    "link": "https://www.etstore.in/products/a1240",
+    "status": "high-confidence"
+  },
+  {
+    "title": "3s Battery holder",
+    "link": "https://www.etstore.in/products/b8037",
+    "status": "high-confidence"
+  },
+  {
+    "title": "3.7 battery 2600mah",
+    "link": "https://www.etstore.in/products/g7393",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Male burge strip",
+    "link": "https://www.etstore.in/products/b8130",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Female burge strip",
+    "link": "https://www.etstore.in/products/b8132",
+    "status": "high-confidence"
+  },
+  {
+    "title": "N20 motors",
+    "link": "https://www.etstore.in/products/h6168",
+    "status": "high-confidence"
+  },
+  {
+    "title": "screw terminal block",
+    "link": "https://www.etstore.in/products/g7165",
+    "status": "high-confidence"
+  },
+  {
+    "title": "CNC shield",
+    "link": "https://www.tomsonelectronics.com/products/cnc-shield-v3",
+    "status": "verified"
+  },
+  {
+    "title": "4988 stepper motor driver",
+    "link": "https://www.tomsonelectronics.com/products/buy-a-4988-stepper-motor-driver-module-online",
+    "status": "high-confidence"
+  },
+  {
+    "title": "DRV 8825 stepper motor driver",
+    "link": "https://www.tomsonelectronics.com/products/drv-8825-stepper-motor-driver-module",
+    "status": "high-confidence"
+  },
+  {
+    "title": "NEMA stepper motor driver",
+    "link": "https://www.tomsonelectronics.com/products/nema-17-4-2kg-stepper-motor",
+    "status": "high-confidence"
+  },
+  {
+    "title": "N20 WHEELS",
+    "link": "https://www.etstore.in/products/h6226",
+    "status": "high-confidence"
+  },
+  {
+    "title": "LM2596 DC Buck Converter",
+    "link": "https://www.etstore.in/products/c5263",
+    "status": "verified"
+  },
+  {
+    "title": "ESP32 30pin C Type CH340",
+    "link": "https://www.etstore.in/products/esp-wroom-32-esp32-30pin-cp2102-development-board-et5165-copy",
+    "status": "high-confidence"
+  },
+  {
+    "title": "DMEGC 18650 3.7V 2600mAh EV Grade NMC Li-ion inr18650-26e Battery ET7393",
+    "link": "https://www.etstore.in/products/g7393",
+    "status": "high-confidence"
+  },
+  {
+    "title": "40 Pin 2.54mm Female Header flow solder 1x40 straight bergstrip ET8132",
+    "link": "https://www.etstore.in/products/b8132",
+    "status": "high-confidence"
+  },
+  {
+    "title": "3 x 1.5V AA Battery Holder Without Cover",
+    "link": "https://robu.in/product/3-x-1-5v-aa-battery-holder-without-cover",
+    "status": "high-confidence"
+  },
+  {
+    "title": "6 A 250V 3 pin SPDT ON-OFF Rocker Switch",
+    "link": "https://robu.in/product/6-a-250v-3-pin-spst-on-off-on-rocker-switch-2pcs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "15x9CM Double Sided DOT BOARD PCB dotted 9x15cm ET8832",
+    "link": "https://www.etstore.in/products/b8832",
+    "status": "high-confidence"
+  },
+  {
+    "title": "6 Pin RMC Male",
+    "link": "https://www.etstore.in/products/b8439",
+    "status": "high-confidence"
+  },
+  {
+    "title": "6 Pin RMC Relimate Connector female",
+    "link": "https://www.etstore.in/products/b8512",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1 METER Ribbon Cable Rainbow",
+    "link": "https://www.etstore.in/products/b8199",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Male Header Berg Strip 2.54mm double row",
+    "link": "https://www.etstore.in/products/b8555",
+    "status": "high-confidence"
+  },
+  {
+    "title": "80 Pin bent Male Header Berg Strip 2.54mm double row",
+    "link": "https://www.etstore.in/products/b8555",
+    "status": "high-confidence"
+  },
+  {
+    "title": "DAC Breakout Development Board",
+    "link": "https://robu.in/product/cjmcu-mcp4725-i2c-dac-breakout-development-board-module",
+    "status": "high-confidence"
+  },
+  {
+    "title": "USB ASP AVR Programming Device for ATMEL Processors",
+    "link": "https://robu.in/product/usbasp-avr-programming-device-for-atmel-proccessors",
+    "status": "high-confidence"
+  },
+  {
+    "title": "AVR ISP 10 Pin to 6 Pin Adapter Board",
+    "link": "https://robu.in/product/avr-isp-10-pin-to-6-pin-adapter-board",
+    "status": "high-confidence"
+  },
+  {
+    "title": "ST-LINK/V2 in-circuit debugger/programmer for STM8 and STM32",
+    "link": "https://robu.in/product/st-link-v2-in-circuit-debugger-programmer-for-stm8-and-stm32",
+    "status": "high-confidence"
+  },
+  {
+    "title": "4-20mA to 5V Converter for Arduino Industrial Sensor Interface Board",
+    "link": "https://robu.in/product/4-20ma-to-5v-converter-for-arduino-industrial-sensor-interface-board",
+    "status": "high-confidence"
+  },
+  {
+    "title": "INA114 Precision Instrumentation Amplifier IC DIP-8 Package",
+    "link": "https://robu.in/product/ina114-precision-instrumentation-amplifier-ic-dip-8-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "INA118 Low Power Instrumentation Amplifier IC DIP-8 Package",
+    "link": "https://robu.in/product/ina118-low-power-instrumentation-amplifier-ic-dip-8-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "CAN Bus to TTL Serial Port Converter Adapter Communication Module",
+    "link": "https://robu.in/product/can-bus-to-ttl-serial-port-converter-adapter-communication-module",
+    "status": "high-confidence"
+  },
+  {
+    "title": "FT232Rl FTDI USB To TTL Serial Converter Adapter Module ET5164",
+    "link": "https://www.etstore.in/products/c5164",
+    "status": "high-confidence"
+  },
+  {
+    "title": "ATMEGA328P-AU SMD TQFP32 ATMEL ETA1105",
+    "link": "https://www.etstore.in/products/a1105",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Arduino nano 33 BLE",
+    "link": "https://robu.in/product/original-arduino-nano-33-ble-sense",
+    "status": "high-confidence"
+  },
+  {
+    "title": "3.7V 1500mAh 1S LiPo Battery",
+    "link": "https://robu.in/product/wly103443-1500mah-3-7v-single-cell-rechargeable-lipo-battery",
+    "status": "high-confidence"
+  },
+  {
+    "title": "DFRobot Lipo Charger-Type C",
+    "link": "https://robu.in/product/dfrobot-lipo-charger-type-c",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Dot board pcb",
+    "link": "https://robu.in/product/5-x-7-cm-universal-pcb-prototype-board-single-sided-2-54mm-hole-pitch",
+    "status": "high-confidence"
+  },
+  {
+    "title": "ON OFF switch",
+    "link": "https://www.etstore.in/products/b8017",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Female burge",
+    "link": "https://www.etstore.in/products/b8132",
+    "status": "high-confidence"
+  },
+  {
+    "title": "screw terminal",
+    "link": "https://www.etstore.in/products/g7165",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1nf capaciotr",
+    "link": "https://www.etstore.in/products/e9407",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10 nf capacitor",
+    "link": "https://www.etstore.in/products/e9412",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100 nf",
+    "link": "https://www.etstore.in/products/d10172",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1uf",
+    "link": "https://www.etstore.in/products/d10169",
+    "status": "high-confidence"
+  },
+  {
+    "title": "li-ion battery",
+    "link": "https://www.etstore.in/products/g7393",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BMS",
+    "link": "https://www.etstore.in/products/g7915",
+    "status": "high-confidence"
+  },
+  {
+    "title": "5S 15A BMS",
+    "link": "https://robu.in/product/5s-25a-18650-lithium-battery-protection-board",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Boost converter",
+    "link": "https://robu.in/product/mt3608-2a-max-dc-dc-step-up-power-module-booster-power-module",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Buck converter 1",
+    "link": "https://www.etstore.in/products/c5263",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Buck converter 2",
+    "link": "https://www.etstore.in/products/c5028",
+    "status": "high-confidence"
+  },
+  {
+    "title": "ISP for ATMEL ATMEGA",
+    "link": "https://www.etstore.in/products/c5377",
+    "status": "high-confidence"
+  },
+  {
+    "title": "diode",
+    "link": "https://www.etstore.in/products/a1149",
+    "status": "high-confidence"
+  },
+  {
+    "title": "47 ohm resistor through hole",
+    "link": "https://www.etstore.in/products/d10111",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Npn transistor",
+    "link": "https://www.etstore.in/products/a2068",
+    "status": "high-confidence"
+  },
+  {
+    "title": "pcb",
+    "link": "https://www.etstore.in/products/b8832",
+    "status": "high-confidence"
+  },
+  {
+    "title": "MP1584 buck converter",
+    "link": "https://www.tomsonelectronics.com/products/mp1584-dc-dc-3a-step-down-module",
+    "status": "high-confidence"
+  },
+  {
+    "title": "PCB 7x9",
+    "link": "https://www.tomsonelectronics.com/products/7-x-9-cm-universal-double-sided-green-pcb-prototype-board",
+    "status": "high-confidence"
+  },
+  {
+    "title": "4 pin JST connector , 2.54mm pitch",
+    "link": "https://www.etstore.in/products/b8778",
+    "status": "high-confidence"
+  },
+  {
+    "title": "3 pin JST connector , 2.54mm pitch",
+    "link": "https://www.etstore.in/products/b8777",
+    "status": "high-confidence"
+  },
+  {
+    "title": "banana sockets",
+    "link": "https://www.tomsonelectronics.com/products/elcom-bti-15-banana-sockets",
+    "status": "high-confidence"
+  },
+  {
+    "title": "dc socket",
+    "link": "https://www.tomsonelectronics.com/products/dc-power-jack-5-5mm-x-2-1mm-panel-mount-screw-nut-type",
+    "status": "high-confidence"
+  },
+  {
+    "title": "toggle switch",
+    "link": "https://www.tomsonelectronics.com/products/3-pin-calonix-toggle-switch",
+    "status": "high-confidence"
+  },
+  {
+    "title": "rotery encoder",
+    "link": "https://www.tomsonelectronics.com/products/360-degree-rotary-encoder-module",
+    "status": "high-confidence"
+  },
+  {
+    "title": "db9 connector",
+    "link": "https://www.tomsonelectronics.com/products/db-connector-9pin-male",
+    "status": "high-confidence"
+  },
+  {
+    "title": "rj11",
+    "link": "https://robu.in/product/rj11-12-6p-6c-male-plug-pack-of-10",
+    "status": "high-confidence"
+  },
+  {
+    "title": "ZVN2110A",
+    "link": "https://robu.in/product/zvn2110a-diodes-incorporated-100v-320ma-700mw-4\u03c910v1a-2-4v-1-n-channel-to-92-mosfets-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "opamp",
+    "link": "https://robu.in/product/lm358s-slkor-dual-0-3v-us-1mhz-sop-8-operational-amplifier-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "UCC3808D",
+    "link": "https://robu.in/product/ucc3808d-1-texas-instruments-pwm-controller-15v-10v-supply-1-mhz-500mv-100ma-out-soic-8",
+    "status": "high-confidence"
+  },
+  {
+    "title": "UCC37324D",
+    "link": "https://robu.in/product/ucc37324d-texas-instruments-low-edge-2-mosfet-4a-20ns-15ns-4-5v15v-4a-soic-8-gate-drivers-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "MC14060BDR2G",
+    "link": "https://robu.in/product/mc14060bdr2g-xblw-falling-edge-3v15v-12mhz-sop-16-counters-dividers-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "mc33172vdr2g-onsemi-operational-amplifier",
+    "link": "https://robu.in/product/mc33172vdr2g-onsemi-operational-amplifier-2-channels-1-8-mhz-2-1-v-\u00b5s-3v-to-44v-soic-8-pins",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BC84",
+    "link": "https://robu.in/product/bc846-foshan-blue-rocket-elec-65v-350mw-100ma-npn-sot-23-bipolar-bjt-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "330pF 0805",
+    "link": "https://robu.in/product/330pf-0805-surface-mount-multilayer-ceramic-capacitor-pack-of-50",
+    "status": "high-confidence"
+  },
+  {
+    "title": "220uf 50v drum capacitor",
+    "link": "https://www.etstore.in/products/a2221",
+    "status": "high-confidence"
+  },
+  {
+    "title": "470uf 16v drum capacitor",
+    "link": "https://www.etstore.in/products/a1858",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Bus transceiver",
+    "link": "https://www.etstore.in/products/a1858",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Arduino",
+    "link": "https://www.etstore.in/products/c5177",
+    "status": "high-confidence"
+  },
+  {
+    "title": "IRFZ44 N-Channel MOSFET",
+    "link": "https://www.etstore.in/products/a1137",
+    "status": "high-confidence"
+  },
+  {
+    "title": "LCD display",
+    "link": "https://www.etstore.in/products/c5418",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Potention meter",
+    "link": "https://www.etstore.in/products/d10303",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Gear motor",
+    "link": "https://www.etstore.in/products/h6073",
+    "status": "high-confidence"
+  },
+  {
+    "title": "12V 10A SMPS",
+    "link": "https://www.etstore.in/products/c5829",
+    "status": "high-confidence"
+  },
+  {
+    "title": "L298N Motor driver",
+    "link": "https://www.etstore.in/products/c5186",
+    "status": "high-confidence"
+  },
+  {
+    "title": "I2C module",
+    "link": "https://www.etstore.in/products/c5424",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Dot board",
+    "link": "https://www.etstore.in/products/b8832",
+    "status": "high-confidence"
+  },
+  {
+    "title": "DC jack",
+    "link": "https://www.etstore.in/products/b8107",
+    "status": "high-confidence"
+  },
+  {
+    "title": "12v 5A adaptor",
+    "link": "https://www.etstore.in/products/e9789",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Nema17 Stepper Motor 40mm",
+    "link": "https://www.etstore.in/products/h6132",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Servo Mg995",
+    "link": "https://www.etstore.in/products/h6452",
+    "status": "high-confidence"
+  },
+  {
+    "title": "40X1 FEMALE BERG STRIP STRAIGHT",
+    "link": "https://www.tomsonelectronics.com/products/40-pin-burg-strip-female",
+    "status": "high-confidence"
+  },
+  {
+    "title": "40x1 MALE BERG STRIP STRAIGHT",
+    "link": "https://www.tomsonelectronics.com/products/40-pin-burg-strip-male",
+    "status": "high-confidence"
+  },
+  {
+    "title": "AS5600 Magnetic Encoder Induction Angle Sensor",
+    "link": "https://robu.in/product/magnetic-encoder-sensor-module-as5600",
+    "status": "high-confidence"
+  },
+  {
+    "title": "TMC 2209 Stepper motor driver",
+    "link": "https://robu.in/product/tmc2209-v3-0-stepper-motor-driver-module",
+    "status": "high-confidence"
+  },
+  {
+    "title": "bergstrip",
+    "link": "https://www.etstore.in/products/b8132",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BERGSTRIP-male",
+    "link": "https://www.etstore.in/products/b8130",
+    "status": "high-confidence"
+  },
+  {
+    "title": "3x AA battery holder",
+    "link": "https://robu.in/product/transparent-3-x-aa-battery-holder-box-with-cable-switch-and-cover",
+    "status": "high-confidence"
+  },
+  {
+    "title": "UCC28600 PWM controller",
+    "link": "https://robu.in/product/ucc28600d-texas-instruments-pwm-controller-green-21v-0v-supply-130-khz-800ma-out-soic-8",
+    "status": "high-confidence"
+  },
+  {
+    "title": "MBR30100",
+    "link": "https://robu.in/product/mbr30100ct-mdd-100v-1-pair-common-cathode-850mv15a-30a-to-220ab-3-schottky-diodes-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "TFT display",
+    "link": "https://robu.in/product/smartelex-2-4-tft-display-240x320",
+    "status": "high-confidence"
+  },
+  {
+    "title": "MAX98357 I2S Amplifier Module",
+    "link": "https://robu.in/product/dfrobot-max98357-i2s-amplifier-module",
+    "status": "high-confidence"
+  },
+  {
+    "title": "RTC module",
+    "link": "https://www.etstore.in/products/c5139",
+    "status": "high-confidence"
+  },
+  {
+    "title": "vibration sensor",
+    "link": "https://www.etstore.in/products/c5901",
+    "status": "high-confidence"
+  },
+  {
+    "title": "KMT211NGHFLFS",
+    "link": "https://robu.in/product/kmt211nghflfs-ck-round-button-50ma-vertical-welding-spst-normally-open-1n-32v-smd-tactile-switches-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "relay module",
+    "link": "https://www.etstore.in/products/c5054",
+    "status": "high-confidence"
+  },
+  {
+    "title": "flow meter",
+    "link": "https://www.etstore.in/products/c5205",
+    "status": "high-confidence"
+  },
+  {
+    "title": "stlink",
+    "link": "https://robu.in/product/st-link-v2-in-circuit-debugger-programmer-for-stm8-and-stm32",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10rpm johnson Motor 12V ET6322",
+    "link": "https://www.etstore.in/products/h6322",
+    "status": "high-confidence"
+  },
+  {
+    "title": "74HC245D",
+    "link": "https://robu.in/product/74hc245d653-nxp-transceiver-non-inverting-74hc245-2-v-to-6-v-supply-40-c-to-125-c-soic20",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BJT",
+    "link": "https://robu.in/product/fzt951ta-diodes-incorporated-60v-3w-1002a1v-5a-pnp-sot-223-3-bipolar-bjt-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BJT - FZT851TA",
+    "link": "https://robu.in/product/fzt851ta-diodes-incorporated-60v-3w-1002a1v-6a-npn-sot-223-3-bipolar-bjt-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "lcr merter",
+    "link": "https://robu.in/product/metravi-460-hand-held-lcr-meter",
+    "status": "high-confidence"
+  },
+  {
+    "title": "dc amp clamp meter",
+    "link": "https://robu.in/product/htc-cm-2046-clampmeter",
+    "status": "high-confidence"
+  },
+  {
+    "title": "bc807",
+    "link": "https://www.etstore.in/products/a1929",
+    "status": "high-confidence"
+  },
+  {
+    "title": "SN74LVC1G14",
+    "link": "https://www.etstore.in/products/a2202",
+    "status": "high-confidence"
+  },
+  {
+    "title": "2N7002",
+    "link": "https://www.etstore.in/products/h6479",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1.5mohm Shunt",
+    "link": "https://robu.in/product/cg-fl-2b-50a-75mv",
+    "status": "high-confidence"
+  },
+  {
+    "title": "OPA07",
+    "link": "https://robu.in/product/op07-ultralow-offset-voltage-op-amp-ic-dip-8-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "OPA388",
+    "link": "https://robu.in/product/opa388idr-texas-instruments-10mhz-250nv-30pa-single-channel-soic-8-precision-op-amps-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "SOIC8 to DIP adapter board",
+    "link": "https://robu.in/product/so-msop-tssop-soic-to-dip8-board-pcb-pack-of-5",
+    "status": "high-confidence"
+  },
+  {
+    "title": "INA181A3",
+    "link": "https://robu.in/product/ina181a3qdbvrq1-texas-instruments-200mv26v-150khz-single-channel-sot-23-6-current-sense-amplifiers-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "TLP350",
+    "link": "https://www.etstore.in/products/a1166",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Transformer core",
+    "link": "https://www.etstore.in/products/d10270",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Bobblin",
+    "link": "https://www.etstore.in/products/d10649",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Bobblin e25",
+    "link": "https://www.etstore.in/products/e9377",
+    "status": "high-confidence"
+  },
+  {
+    "title": "DSPIC33EP32MC202",
+    "link": "https://robu.in/product/dspic33ep32mc202-i-ss-microchip-digital-signal-controller-dspic33e-series-140-mhz-32-kb-21-i-os-i2c-spi-uart",
+    "status": "high-confidence"
+  },
+  {
+    "title": "MOSFET",
+    "link": "https://www.etstore.in/products/a1137",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Zener 15v",
+    "link": "https://www.etstore.in/products/a1739",
+    "status": "high-confidence"
+  },
+  {
+    "title": "T27",
+    "link": "https://www.etstore.in/products/d10275",
+    "status": "high-confidence"
+  },
+  {
+    "title": "470uf 50 Capacitor",
+    "link": "https://www.etstore.in/products/e9804",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10nf",
+    "link": "https://www.etstore.in/products/e9412",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100nf capacitor",
+    "link": "https://www.etstore.in/products/d10471",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1nf capacitor",
+    "link": "https://www.etstore.in/products/e9407",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Crystal oscillator",
+    "link": "https://www.etstore.in/products/b8009",
+    "status": "high-confidence"
+  },
+  {
+    "title": "E25 core",
+    "link": "https://www.etstore.in/products/d10271",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Breakout",
+    "link": "https://www.etstore.in/products/d10878",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Esp32 s3 touch display",
+    "link": "https://robu.in/product/waveshare-esp32-s3-0-display-development-board",
+    "status": "high-confidence"
+  },
+  {
+    "title": "SN65HVD230- CAN transceiver",
+    "link": "https://robu.in/product/sn65hvd230-can-board-network-transceiver-evaluation-development-module",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Capacitor 47uf",
+    "link": "https://www.etstore.in/products/d10462",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Capacitor 0.1uf",
+    "link": "https://www.etstore.in/products/d10172",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Resistor 10K",
+    "link": "https://www.etstore.in/products/d10428",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Push button",
+    "link": "https://www.etstore.in/products/b8018",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Crystal oscillator 20mhz",
+    "link": "https://www.etstore.in/products/b8003",
+    "status": "high-confidence"
+  },
+  {
+    "title": "capacitor 22pf",
+    "link": "https://www.etstore.in/products/d10182",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Capacitor 1uf",
+    "link": "https://www.etstore.in/products/d10169",
+    "status": "high-confidence"
+  },
+  {
+    "title": "female berg",
+    "link": "https://www.etstore.in/products/b8132",
+    "status": "high-confidence"
+  },
+  {
+    "title": "male to female jumper",
+    "link": "https://www.etstore.in/products/b8097",
+    "status": "high-confidence"
+  },
+  {
+    "title": "male to male jumper",
+    "link": "https://www.etstore.in/products/b8096",
+    "status": "high-confidence"
+  },
+  {
+    "title": "female to female",
+    "link": "https://www.etstore.in/products/b8098",
+    "status": "high-confidence"
+  },
+  {
+    "title": "rmc",
+    "link": "https://www.etstore.in/products/b8417",
+    "status": "high-confidence"
+  },
+  {
+    "title": "rotray encoder",
+    "link": "https://www.etstore.in/products/c5353",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Adaptor",
+    "link": "https://www.etstore.in/products/e9584",
+    "status": "high-confidence"
+  },
+  {
+    "title": "bread board",
+    "link": "https://www.etstore.in/products/b8102",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BSP250 P Channel MOSFET",
+    "link": "https://robu.in/product/bsp250115-nexperia-bsp250115-power-mosfet-p-channel-30-v-1-a-0-25-ohm-sot-223-surface-mount",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Arduino uno",
+    "link": "https://robu.in/product/arduino-uno-r3",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Contact Switch",
+    "link": "https://www.tomsonelectronics.com/products/elcom-micro-switch-ms-2221-b",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Disc capacitor",
+    "link": "https://robu.in/product/100nf-50v-through-hole-multilayer-ceramic-capacitor",
+    "status": "high-confidence"
+  },
+  {
+    "title": "3S BMS",
+    "link": "https://www.etstore.in/products/c5252",
+    "status": "high-confidence"
+  },
+  {
+    "title": "3s battery case",
+    "link": "https://www.etstore.in/products/b8037",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Adaptor 12v 5 a",
+    "link": "https://www.etstore.in/products/e9789",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Buckconverter",
+    "link": "https://www.etstore.in/products/c5263",
+    "status": "high-confidence"
+  },
+  {
+    "title": "switch on off",
+    "link": "https://www.etstore.in/products/b8017",
+    "status": "high-confidence"
+  },
+  {
+    "title": "DRV8833 Motor Driver",
+    "link": "https://www.etstore.in/products/c5728",
+    "status": "high-confidence"
+  },
+  {
+    "title": "CApacitor 10nf 50v",
+    "link": "https://www.etstore.in/products/d10170",
+    "status": "high-confidence"
+  },
+  {
+    "title": "shunt",
+    "link": "https://www.etstore.in/products/d11376",
+    "status": "high-confidence"
+  },
+  {
+    "title": "pulse transformer",
+    "link": "https://www.tomsonelectronics.com/products/pulse-transformer-1-1-1-4503",
+    "status": "high-confidence"
+  },
+  {
+    "title": "led 3mm red",
+    "link": "https://www.etstore.in/products/g7012",
+    "status": "high-confidence"
+  },
+  {
+    "title": "led 3mm green",
+    "link": "https://www.etstore.in/products/g7011",
+    "status": "high-confidence"
+  },
+  {
+    "title": "uf4007 diode",
+    "link": "https://www.etstore.in/products/a1241",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1k resistor",
+    "link": "https://www.etstore.in/products/e9750",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10k reisitor",
+    "link": "https://www.etstore.in/products/d10125",
+    "status": "high-confidence"
+  },
+  {
+    "title": "bc547",
+    "link": "https://www.etstore.in/products/a1190",
+    "status": "high-confidence"
+  },
+  {
+    "title": "ss34 schottkey",
+    "link": "https://www.etstore.in/products/a1339",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1N5819S",
+    "link": "https://www.etstore.in/products/a1009",
+    "status": "high-confidence"
+  },
+  {
+    "title": "IC BASE",
+    "link": "https://www.etstore.in/products/b8162",
+    "status": "high-confidence"
+  },
+  {
+    "title": "super cap",
+    "link": "https://www.etstore.in/products/a2178",
+    "status": "high-confidence"
+  },
+  {
+    "title": "buck",
+    "link": "https://www.etstore.in/products/c5336",
+    "status": "high-confidence"
+  },
+  {
+    "title": "irfz44",
+    "link": "https://www.etstore.in/products/a1137",
+    "status": "high-confidence"
+  },
+  {
+    "title": "lm311",
+    "link": "https://www.etstore.in/products/a1663",
+    "status": "high-confidence"
+  },
+  {
+    "title": "MBRF20200CT",
+    "link": "https://www.etstore.in/products/a1438",
+    "status": "high-confidence"
+  },
+  {
+    "title": "oled",
+    "link": "https://www.etstore.in/products/c5049",
+    "status": "high-confidence"
+  },
+  {
+    "title": "torroid",
+    "link": "https://www.etstore.in/products/d10275",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1k",
+    "link": "https://www.etstore.in/products/d10145",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10k",
+    "link": "https://www.etstore.in/products/d10125",
+    "status": "high-confidence"
+  },
+  {
+    "title": "2.2k",
+    "link": "https://www.etstore.in/products/e9748",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100k",
+    "link": "https://www.etstore.in/products/d10135",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100 ohm",
+    "link": "https://www.etstore.in/products/d10038",
+    "status": "high-confidence"
+  },
+  {
+    "title": "560 ohm",
+    "link": "https://www.etstore.in/products/d10112",
+    "status": "high-confidence"
+  },
+  {
+    "title": "680 ohm",
+    "link": "https://www.etstore.in/products/d10123",
+    "status": "high-confidence"
+  },
+  {
+    "title": "390 ohm",
+    "link": "https://www.etstore.in/products/d10104",
+    "status": "high-confidence"
+  },
+  {
+    "title": "470 ohm",
+    "link": "https://www.etstore.in/products/d10109",
+    "status": "high-confidence"
+  },
+  {
+    "title": "4.7k",
+    "link": "https://www.etstore.in/products/d10116",
+    "status": "high-confidence"
+  },
+  {
+    "title": "15k",
+    "link": "https://www.etstore.in/products/d10151",
+    "status": "high-confidence"
+  },
+  {
+    "title": "12k",
+    "link": "https://www.etstore.in/products/d10151",
+    "status": "high-confidence"
+  },
+  {
+    "title": "75k",
+    "link": "https://www.etstore.in/products/e9771",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10k pot",
+    "link": "https://www.etstore.in/products/d10249",
+    "status": "high-confidence"
+  },
+  {
+    "title": "50k pot",
+    "link": "https://www.etstore.in/products/d10713",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1k pot",
+    "link": "https://www.etstore.in/products/d10247",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100k pot",
+    "link": "https://www.etstore.in/products/a1849",
+    "status": "high-confidence"
+  },
+  {
+    "title": "3A suck",
+    "link": "https://robu.in/product/xl4015-5a-variable-voltage-current-step-down-power-module-with-dual-led-display",
+    "status": "high-confidence"
+  },
+  {
+    "title": "buck 5A",
+    "link": "https://robu.in/product/dc-dc-xl4015-adjustable-stepdown-module-5a-75w-with-4-bits-digital-display-voltmeter",
+    "status": "high-confidence"
+  },
+  {
+    "title": "SOIC 16 , TSSOP16 to DIP converter board",
+    "link": "https://www.etstore.in/products/c5300",
+    "status": "high-confidence"
+  },
+  {
+    "title": "MG90S servo",
+    "link": "https://www.etstore.in/products/h6098",
+    "status": "high-confidence"
+  },
+  {
+    "title": "12v 5A dc adaptor",
+    "link": "https://www.etstore.in/products/e9789",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Male berg",
+    "link": "https://www.etstore.in/products/b8130",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Red led",
+    "link": "https://www.etstore.in/products/g7012",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Green led",
+    "link": "https://www.etstore.in/products/g7011",
+    "status": "high-confidence"
+  },
+  {
+    "title": "yellow",
+    "link": "https://www.etstore.in/products/g7015",
+    "status": "high-confidence"
+  },
+  {
+    "title": "orange led",
+    "link": "https://www.etstore.in/products/g7058",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Resistor 220ohm",
+    "link": "https://www.etstore.in/products/d10052",
+    "status": "high-confidence"
+  },
+  {
+    "title": "flux rma-218",
+    "link": "https://www.etstore.in/products/g7800",
+    "status": "high-confidence"
+  },
+  {
+    "title": "flux re life",
+    "link": "https://www.etstore.in/products/d11278",
+    "status": "high-confidence"
+  },
+  {
+    "title": "lead low guage",
+    "link": "https://www.etstore.in/products/b8068",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Capacitive sensor TTP223",
+    "link": "https://www.etstore.in/products/c5484",
+    "status": "high-confidence"
+  },
+  {
+    "title": "uc3845",
+    "link": "https://www.etstore.in/products/a1707",
+    "status": "high-confidence"
+  },
+  {
+    "title": "mov150v",
+    "link": "https://www.etstore.in/products/d11291",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100uH/5a",
+    "link": "https://www.etstore.in/products/d10731",
+    "status": "high-confidence"
+  },
+  {
+    "title": "0.47\u00b5F 450V Polyester Film Capacitor 474 TC \u2013 High Voltage Poly Capacitor Share Tweet",
+    "link": "https://www.tomsonelectronics.com/products/poly-capacitor-474-450v-tc",
+    "status": "high-confidence"
+  },
+  {
+    "title": "150k/2w",
+    "link": "https://www.etstore.in/products/d10509",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100k ohm 2W RESISTOR CFR TOLERANCE 5% ET10513",
+    "link": "https://www.etstore.in/products/d10513",
+    "status": "high-confidence"
+  },
+  {
+    "title": "2.2nf/1kv",
+    "link": "https://www.etstore.in/products/d10545",
+    "status": "high-confidence"
+  },
+  {
+    "title": "pc817",
+    "link": "https://www.etstore.in/products/a1236a",
+    "status": "high-confidence"
+  },
+  {
+    "title": "CDRH104R 10uH Power Inductor",
+    "link": "https://robu.in/product/cdrh104r-10%CE%BCh-power-inductor-pack-of-5",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1000uf35v",
+    "link": "https://www.etstore.in/products/d10827",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Schottky Diode 100V 20A 20100",
+    "link": "https://www.etstore.in/products/a2622",
+    "status": "high-confidence"
+  },
+  {
+    "title": "UF4007S HORNBY 1A 1000V FAST RECOVERY DIODE",
+    "link": "https://www.etstore.in/products/a1241",
+    "status": "high-confidence"
+  },
+  {
+    "title": "TL431K-1 TO92 UTC",
+    "link": "https://www.etstore.in/products/a1692",
+    "status": "high-confidence"
+  },
+  {
+    "title": "47uF 25V DC JWCO 105C 5x11MM Electrolytic",
+    "link": "https://www.etstore.in/products/e9599",
+    "status": "high-confidence"
+  },
+  {
+    "title": "4.7nf",
+    "link": "https://www.etstore.in/products/d10552",
+    "status": "high-confidence"
+  },
+  {
+    "title": "2.2nf",
+    "link": "https://www.etstore.in/products/d10545",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1nf",
+    "link": "https://www.etstore.in/products/e9192",
+    "status": "high-confidence"
+  },
+  {
+    "title": "15V 0.5W zener",
+    "link": "https://www.etstore.in/products/a1351",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10ohm",
+    "link": "https://www.etstore.in/products/d10843",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100ohm",
+    "link": "https://www.etstore.in/products/d10340",
+    "status": "high-confidence"
+  },
+  {
+    "title": "0.33 ohm 5W WIRE WOUND RESISTOR 0E33 vertical",
+    "link": "https://www.etstore.in/products/e9630",
+    "status": "high-confidence"
+  },
+  {
+    "title": "3a fuse",
+    "link": "https://www.etstore.in/products/b8155",
+    "status": "high-confidence"
+  },
+  {
+    "title": "IRF9540",
+    "link": "https://www.etstore.in/products/a1256",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BC547C",
+    "link": "https://www.etstore.in/products/a1190",
+    "status": "high-confidence"
+  },
+  {
+    "title": "0.96 inch OLED",
+    "link": "https://www.etstore.in/products/e9591",
+    "status": "high-confidence"
+  },
+  {
+    "title": "DS18B20",
+    "link": "https://www.tomsonelectronics.com/products/ds-18b20-temperature-sensor-probe",
+    "status": "high-confidence"
+  },
+  {
+    "title": "AMS1117",
+    "link": "https://www.etstore.in/products/c5098",
+    "status": "high-confidence"
+  },
+  {
+    "title": "LED",
+    "link": "https://www.etstore.in/products/g7012",
+    "status": "high-confidence"
+  },
+  {
+    "title": "LM2596",
+    "link": "https://www.tomsonelectronics.com/products/lm-2596-dc-dc-buck-converter",
+    "status": "high-confidence"
+  },
+  {
+    "title": "SG-002 Analog 0-12V 0-24mA Signal Generator for PLC and Panel Debugging &amp Device Testing",
+    "link": "https://robu.in/product/sg-002-analog-0-12v-4-20ma-signal-generator-for-plc-and-panel-debugging-device-testing",
+    "status": "high-confidence"
+  },
+  {
+    "title": "LM2950G-3.3 3.3V Voltage regulator",
+    "link": "https://www.etstore.in/products/a1620",
+    "status": "high-confidence"
+  },
+  {
+    "title": "C8051F040-GQ-SILICON LABS-8 Bit MCU,",
+    "link": "https://robu.in/product/c8051f040-gq-silicon-labs-8-bit-mcu-mixed-signal-c8051-family-c8051f04x-series-microcontrollers-8051-25-mhz-64-kb",
+    "status": "high-confidence"
+  },
+  {
+    "title": "pwm controller",
+    "link": "https://www.etstore.in/products/c5931",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Calonix 3 Pin Toggle Switch SPDT On-On 3A 250V 2 POSITION",
+    "link": "https://www.etstore.in/products/b8013",
+    "status": "high-confidence"
+  },
+  {
+    "title": "2.1\u00d75.5mm DC Power Jack Socket Panel Mount female",
+    "link": "https://www.etstore.in/products/c5360",
+    "status": "high-confidence"
+  },
+  {
+    "title": "24V DC 2.5A ERD SMPS Adaptor DC PS-30D/24V PS083 ET9651",
+    "link": "https://www.etstore.in/products/e9651",
+    "status": "high-confidence"
+  },
+  {
+    "title": "servo",
+    "link": "https://www.etstore.in/products/h6101",
+    "status": "high-confidence"
+  },
+  {
+    "title": "74hc4094",
+    "link": "https://robu.in/product/74hc4094d653-nexperia-8-2v6v-1-serial-to-serial-or-parallel-soic-16-shift-registers-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1meter Gt2 Open Timing Belt 6mm Width and 2mm Pitch",
+    "link": "https://www.etstore.in/products/h6026",
+    "status": "high-confidence"
+  },
+  {
+    "title": "T48 Universal programmer kit",
+    "link": "https://robu.in/product/t48-universal-programmer-kit-with-6-ic-adapters",
+    "status": "high-confidence"
+  },
+  {
+    "title": "220uF 50V VP1H221M0810 Honor Elec \u00b120% Aluminum Electrolytic Capacitors SMD ETA2423",
+    "link": "https://www.etstore.in/products/a2423",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100uF 35V \u00b120% SMD,D6.3xL7.7mm Aluminum",
+    "link": "https://robu.in/product/vej101m1vtr-0607-lelon-100uf-35v-%C2%B120-smdd6-3xl7-7mm-aluminum-electrolytic-capacitors-smd-rohs-2",
+    "status": "high-confidence"
+  },
+  {
+    "title": "12v 5a smps",
+    "link": "https://www.etstore.in/products/e9789",
+    "status": "high-confidence"
+  },
+  {
+    "title": "SparkFun SEN-15050 Triad Spectroscopy Sensor",
+    "link": "https://robu.in/product/sparkfun-triad-spectroscopy-sensor-as7265x",
+    "status": "high-confidence"
+  },
+  {
+    "title": "AD620 Microvolt/Millivolt Voltage Amplifier",
+    "link": "https://robu.in/product/ad620-microvolt-millivolt-voltage-amplifier-module",
+    "status": "high-confidence"
+  },
+  {
+    "title": "bpw34 photodiod",
+    "link": "https://robu.in/product/bpw46-vishay-bpw46-photo-diode-non-amplified-900-nm-radial-leaded-65",
+    "status": "high-confidence"
+  },
+  {
+    "title": "ADS1115 16-Bit ADC- 4 Channel with Programmable Gain Amplifier",
+    "link": "https://robu.in/product/ads1115-16-bit-adc-4-channel-programmable-gain-amplifier",
+    "status": "high-confidence"
+  },
+  {
+    "title": "MB102 830 Points Breadboard",
+    "link": "https://robu.in/product/mb102-830-points-solderless-prototype-breadboard-power-supply-module-140-jumper-wires-arduino-diy-starter-kit",
+    "status": "high-confidence"
+  },
+  {
+    "title": "rsistor",
+    "link": "https://robu.in/product/30-different-valued-metal-film-resistor-assorted-kit-for-diy-electronic-projects-and-experiments",
+    "status": "high-confidence"
+  },
+  {
+    "title": "capacitor",
+    "link": "https://robu.in/product/300pcs-high-voltage-ceramic-disc-capacitor-kit",
+    "status": "high-confidence"
+  },
+  {
+    "title": "DHT22",
+    "link": "https://www.etstore.in/products/c5129",
+    "status": "high-confidence"
+  },
+  {
+    "title": "SS36 60V 3A",
+    "link": "https://www.etstore.in/products/e9269",
+    "status": "high-confidence"
+  },
+  {
+    "title": "DTC124E",
+    "link": "https://robu.in/product/dtc124ecahzgt116-rohm-semicon-565ma5v-350mw-100ma-50v-sot-23-digital-transistors-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "MMBTA56",
+    "link": "https://robu.in/product/mmbta56-7-f-diodes-incorporated-80v-310mw-10010ma1-0v-500ma-pnp-sot-23-bipolar-bjt-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "MMBTA06",
+    "link": "https://robu.in/product/mmbta06-rtk-p-kec-semicon-sot-23-bipolar-bjt-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BC856A",
+    "link": "https://robu.in/product/bc856a-semtech-sot-23-bipolar-bjt-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "FMMT618",
+    "link": "https://robu.in/product/fmmt618-slkorslkormicro-elec-25v-1-8a-npn-sot-23-bipolar-bjt-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10Kohms",
+    "link": "https://www.etstore.in/products/e9117",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10 ohms",
+    "link": "https://www.etstore.in/products/e9060",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1.8K",
+    "link": "https://www.etstore.in/products/e9100",
+    "status": "high-confidence"
+  },
+  {
+    "title": "47 ohms",
+    "link": "https://www.etstore.in/products/e9070",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1K ohms",
+    "link": "https://www.etstore.in/products/e9096",
+    "status": "high-confidence"
+  },
+  {
+    "title": "2.2 ohms",
+    "link": "https://www.etstore.in/products/e9318",
+    "status": "high-confidence"
+  },
+  {
+    "title": "4.7nF 1000V",
+    "link": "https://www.etstore.in/products/d10554",
+    "status": "high-confidence"
+  },
+  {
+    "title": "TL555C",
+    "link": "https://www.etstore.in/products/a2601",
+    "status": "high-confidence"
+  },
+  {
+    "title": "22uF 100V",
+    "link": "https://www.etstore.in/products/d11459",
+    "status": "high-confidence"
+  },
+  {
+    "title": "220nF 1KV",
+    "link": "https://www.etstore.in/products/e9244",
+    "status": "high-confidence"
+  },
+  {
+    "title": "mov",
+    "link": "https://robu.in/product/mov-14d431ktr-bourns-350v-275v-430v-varistors-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "ntc",
+    "link": "https://www.etstore.in/products/e9477",
+    "status": "high-confidence"
+  },
+  {
+    "title": "TCA785P",
+    "link": "https://robu.in/product/tca785p-hlf-18v-phase-control-ic-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "resistor 2 Watt",
+    "link": "https://www.etstore.in/products/d10032",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Resistor 2.7k",
+    "link": "https://robu.in/product/cr2010j2k70e04z-ever-ohms-tech-750mw-thick-film-resistor-200v-%c2%b1100ppm-%e2%84%83-%c2%b15-2-7k%cf%89-2010-chip-resistor-surface-mount-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "soldering wick",
+    "link": "https://robu.in/product/solder-wick-good-quality",
+    "status": "high-confidence"
+  },
+  {
+    "title": "6N137",
+    "link": "https://robu.in/product/1-month-warranty-368",
+    "status": "high-confidence"
+  },
+  {
+    "title": "LMV358",
+    "link": "https://robu.in/product/lm2904dr2g-32v-single-supply-dual-operational-amplifier-8-pin-soic-on-semiconductor",
+    "status": "high-confidence"
+  },
+  {
+    "title": "LM2904",
+    "link": "https://robu.in/product/lm2904aydt-stmicroelectronics-operational-amplifier-2-channels-1-1-mhz-0-6-v-%c2%b5s-3v-to-30v-soic-8-pins",
+    "status": "high-confidence"
+  },
+  {
+    "title": "S1M",
+    "link": "https://robu.in/product/s1m-onsemi-s1m-standard-recovery-diode-1-kv-1-a-single-1-1-v-1-8-%C2%B5s-30-a",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Dip switch 4 pin",
+    "link": "https://robu.in/product/4-pin-flat-dial-switch-2-54mm",
+    "status": "high-confidence"
+  },
+  {
+    "title": "TQ2SA 5v",
+    "link": "https://robu.in/product/tq2sa-l2-5v-panasonic-2a-5v-two-sets-of-conversion-2c-dpdt-conversion-magnetic-latching-relays-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Bridge rectifier",
+    "link": "https://robu.in/product/kbl406-mdd-200a-1-1v4a-4a-600v-kbl-bridge-rectifiers-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "fuse holder",
+    "link": "https://www.etstore.in/products/b8154",
+    "status": "high-confidence"
+  },
+  {
+    "title": "fuse 250V 4A",
+    "link": "https://robu.in/product/0001-2510-schurter-0001-2510-fuse-cartridge-time-delay-4-a-250-v-5mm-x-20mm-0-2-x-0-79-spt",
+    "status": "high-confidence"
+  },
+  {
+    "title": "capacitor 470mf",
+    "link": "https://www.etstore.in/products/e9347",
+    "status": "high-confidence"
+  },
+  {
+    "title": "capacitor 330mf",
+    "link": "https://robu.in/product/50yxf330mffc10x20-rubycon-330uf-50v-%c2%b120-plugind10xl20mm-aluminum-electrolytic-capacitors-leaded-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "capacitor 10mf",
+    "link": "https://robu.in/product/50yxf10mffc5x11-rubycon-10uf-50v-%c2%b120-plugind5xl11mm-aluminum-electrolytic-capacitors-leaded-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "78M05",
+    "link": "https://www.etstore.in/products/a1333",
+    "status": "high-confidence"
+  },
+  {
+    "title": "SK90",
+    "link": "https://www.etstore.in/products/c5638",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Dip switch 3 pin",
+    "link": "https://robu.in/product/2-54-3p-cjpb-h-shou-han-3-positions-spst-24v-red-25ma-2000-times-flat-toggle-raised-style-plugin-dip-switches-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100nf",
+    "link": "https://www.etstore.in/products/e9276",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10uf",
+    "link": "https://www.etstore.in/products/e9248",
+    "status": "high-confidence"
+  },
+  {
+    "title": "4,7nf",
+    "link": "https://www.etstore.in/products/e9195",
+    "status": "high-confidence"
+  },
+  {
+    "title": "330pf",
+    "link": "https://www.etstore.in/products/e9188",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10K resistor",
+    "link": "https://www.etstore.in/products/e9117",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100 ohms resistor",
+    "link": "https://www.etstore.in/products/e9077",
+    "status": "high-confidence"
+  },
+  {
+    "title": "3.3K resistor",
+    "link": "https://www.etstore.in/products/e9747",
+    "status": "high-confidence"
+  },
+  {
+    "title": "330 ohms",
+    "link": "https://www.etstore.in/products/e9747",
+    "status": "high-confidence"
+  },
+  {
+    "title": "47K resistor",
+    "link": "https://www.etstore.in/products/e9130",
+    "status": "high-confidence"
+  },
+  {
+    "title": "220K resistor",
+    "link": "https://www.etstore.in/products/g7830",
+    "status": "high-confidence"
+  },
+  {
+    "title": "smd led blue",
+    "link": "https://www.etstore.in/products/g7193",
+    "status": "high-confidence"
+  },
+  {
+    "title": "led smd red",
+    "link": "https://www.etstore.in/products/g7116",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1N4148 smd",
+    "link": "https://www.etstore.in/products/a1001",
+    "status": "high-confidence"
+  },
+  {
+    "title": "shunt 500milli ohms",
+    "link": "https://robu.in/product/0-5-ohm-3w-surface-mount-sense-resistor",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10uf 50V",
+    "link": "https://robu.in/product/0805x106k500nt-fh-50v-10uf-x5r%C2%B110-0805-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "2.2K resistor",
+    "link": "https://robu.in/product/yageo-2-2k-ohm-1-4w-0805-surface-mount-resistor-pack-of-50",
+    "status": "high-confidence"
+  },
+  {
+    "title": "TVS diode 30V",
+    "link": "https://robu.in/product/smaj30a-tr-stmicroelectronics-smaj30a-tr-tvs-diode-transil-smaj-series-unidirectional-30-v-48-4-v-smd-2-pins",
+    "status": "high-confidence"
+  },
+  {
+    "title": "XY2500 5p female",
+    "link": "https://www.etstore.in/products/b8688",
+    "status": "high-confidence"
+  },
+  {
+    "title": "XY2500 6p female",
+    "link": "https://www.etstore.in/products/b8390",
+    "status": "high-confidence"
+  },
+  {
+    "title": "XY2500 3p female",
+    "link": "https://www.etstore.in/products/b8742",
+    "status": "high-confidence"
+  },
+  {
+    "title": "XY2500 6p male",
+    "link": "https://www.etstore.in/products/b8885",
+    "status": "high-confidence"
+  },
+  {
+    "title": "XY2500 3p male",
+    "link": "https://www.etstore.in/products/e9520",
+    "status": "high-confidence"
+  },
+  {
+    "title": "male header",
+    "link": "https://www.etstore.in/products/b8423",
+    "status": "high-confidence"
+  },
+  {
+    "title": "female header 2x4 pin",
+    "link": "https://robu.in/product/1-month-warranty-933",
+    "status": "high-confidence"
+  },
+  {
+    "title": "female header 2x8 pin",
+    "link": "https://robu.in/product/fh2-54-09-08pzs-xunpu-plugin2x8-pin-2-54mm-female-headers-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "XY2500 5p male",
+    "link": "https://www.tomsonelectronics.com/products/xy-2500-5pin-male-straight",
+    "status": "high-confidence"
+  },
+  {
+    "title": "FOD3180",
+    "link": "https://sharvielectronics.com/product/fod3180-2a-output-current-high-speed-mosfet-gate-driver-optocoupler",
+    "status": "high-confidence"
+  },
+  {
+    "title": "S1M diode",
+    "link": "https://robu.in/product/s1m-onsemi-s1m-standard-recovery-diode-1-kv-1-a-single-1-1-v-1-8-%C2%B5s-30-a",
+    "status": "high-confidence"
+  },
+  {
+    "title": "DF06S",
+    "link": "https://robu.in/product/df06s-multicomp-pro-df06s-bridge-rectifier-single-phase-600-v-1-a-smd-4-pins-1-1-v",
+    "status": "high-confidence"
+  },
+  {
+    "title": "330uf 50V",
+    "link": "https://sharvielectronics.com/product/330uf-50v-electrolytic-capacitor-105c-10x20mm-jamicon",
+    "status": "high-confidence"
+  },
+  {
+    "title": "470uf 50V",
+    "link": "https://sharvielectronics.com/product/470uf-50v-electrolytic-capacitor-105c-10x20-mm-samwha",
+    "status": "high-confidence"
+  },
+  {
+    "title": "MMBT2222A NPN Switching Transistor \u2013 SOT-23 Package",
+    "link": "https://sharvielectronics.com/product/mmbt2222a-npn-switching-transistor-sot-23-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "FDG3N60UNDF",
+    "link": "https://robu.in/product/fgd3n60undf-onsemi-60w-6a-600v-npt-non-penetrating-type-to-252-igbt-transistors-modules-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "X2 capacitor 0.1uf 310V",
+    "link": "https://sharvielectronics.com/product/0-1uf-310vac-10-tolerance-metallized-polypropylene-film-capacitor-x2-104k-310v-10mm-10mm-pitch",
+    "status": "high-confidence"
+  },
+  {
+    "title": "HFMMT718TA",
+    "link": "https://robu.in/product/hfmmt718ta-hxy-mosfet-20v-30010ma2v-1-5a-pnp-sot-23-bipolar-bjt-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "TLC555CDR",
+    "link": "https://robu.in/product/tlc555cdr-texas-instruments-timer",
+    "status": "high-confidence"
+  },
+  {
+    "title": "MBRF20100SCT",
+    "link": "https://www.etstore.in/products/a1149",
+    "status": "high-confidence"
+  },
+  {
+    "title": "330.0",
+    "link": "https://www.etstore.in/products/e9747",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10.0",
+    "link": "https://www.etstore.in/products/e9293",
+    "status": "high-confidence"
+  },
+  {
+    "title": "68k",
+    "link": "https://www.etstore.in/products/e9133",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100k 2w",
+    "link": "https://www.etstore.in/products/d10513",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1000uf 35v",
+    "link": "https://www.etstore.in/products/d10827",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10d9 ntc",
+    "link": "https://www.etstore.in/products/e9477",
+    "status": "high-confidence"
+  },
+  {
+    "title": "led red",
+    "link": "https://www.etstore.in/products/g7026",
+    "status": "high-confidence"
+  },
+  {
+    "title": "22k",
+    "link": "https://www.etstore.in/products/e9124",
+    "status": "high-confidence"
+  },
+  {
+    "title": "200k",
+    "link": "https://www.etstore.in/products/e9141",
+    "status": "high-confidence"
+  },
+  {
+    "title": "47uh",
+    "link": "https://www.etstore.in/products/d10620",
+    "status": "high-confidence"
+  },
+  {
+    "title": "SMBJ30CA",
+    "link": "https://www.etstore.in/products/d11472",
+    "status": "high-confidence"
+  },
+  {
+    "title": "PMBT2907A",
+    "link": "https://www.etstore.in/products/g7712",
+    "status": "high-confidence"
+  },
+  {
+    "title": "IPA65R650CE",
+    "link": "https://robu.in/product/ipa65r650cexksa1-infineon-technologies-power-mosfet-n-channel-650-v-10-1-a-0-54-ohm-to-220fp-through-hole",
+    "status": "high-confidence"
+  },
+  {
+    "title": "US2MA-TP",
+    "link": "https://www.etstore.in/products/a2452",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BAT54C",
+    "link": "https://www.etstore.in/products/g7892",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100 milli ohm",
+    "link": "https://robu.in/product/hojlr2512-3w-100mr-1-milliohm-3w-100m\u03c9-patch-current-sensing-resistors-\u00b11-2512-current-sense-resistors-shunt-resistors-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "LTL431APKLT1G",
+    "link": "https://www.etstore.in/products/a1574",
+    "status": "high-confidence"
+  },
+  {
+    "title": "LM358",
+    "link": "https://www.etstore.in/products/a1060",
+    "status": "high-confidence"
+  },
+  {
+    "title": "2k pot",
+    "link": "https://www.etstore.in/products/a1094",
+    "status": "high-confidence"
+  },
+  {
+    "title": "2.2nf 50v",
+    "link": "https://www.etstore.in/products/e9193",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100uH",
+    "link": "https://www.etstore.in/products/d10720",
+    "status": "high-confidence"
+  },
+  {
+    "title": "18k",
+    "link": "https://www.etstore.in/products/e9122",
+    "status": "high-confidence"
+  },
+  {
+    "title": "pluggable terminaal",
+    "link": "https://www.etstore.in/products/b8885",
+    "status": "high-confidence"
+  },
+  {
+    "title": "pluggable terminal female",
+    "link": "https://www.etstore.in/products/b8390",
+    "status": "high-confidence"
+  },
+  {
+    "title": "mov 150 v",
+    "link": "https://www.etstore.in/products/d11291",
+    "status": "high-confidence"
+  },
+  {
+    "title": "mov 150v",
+    "link": "https://www.etstore.in/products/d11291",
+    "status": "high-confidence"
+  },
+  {
+    "title": "x2 cap",
+    "link": "https://www.etstore.in/products/d10674",
+    "status": "high-confidence"
+  },
+  {
+    "title": "SMCJ160CA",
+    "link": "https://robu.in/product/smcj160ca-13-f-diodes-incorporated-5-8a-259v-1-5kw-197v-bidirectional-160v-smcdo-214ab-esd-and-surge-protection-tvs-esd-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "47uf 40v",
+    "link": "https://www.etstore.in/products/d10620",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10d9",
+    "link": "https://www.etstore.in/products/e9477",
+    "status": "high-confidence"
+  },
+  {
+    "title": "24NM80L",
+    "link": "https://www.etstore.in/products/a2507",
+    "status": "high-confidence"
+  },
+  {
+    "title": "0.3 ohm",
+    "link": "https://robu.in/product/0-3-ohm-3w-surface-mount-sense-resistor",
+    "status": "high-confidence"
+  },
+  {
+    "title": "0.5",
+    "link": "https://robu.in/product/0-5-ohm-3w-surface-mount-sense-resistor",
+    "status": "high-confidence"
+  },
+  {
+    "title": "0.2",
+    "link": "https://robu.in/product/0-2-ohm-3w-surface-mount-sense-resistor",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Isolated RS485",
+    "link": "https://robu.in/product/dfrobot-gravity-active-isolated-rs485-to-uart-signal-adapter-module",
+    "status": "high-confidence"
+  },
+  {
+    "title": "DC-DC Converters ROHS",
+    "link": "https://robu.in/product/lm3478max-nopb-texas-instruments-boost-type-adjustable-1a-2-97v40v-soic-8-dc-dc-converters-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "B0505S-1WR3",
+    "link": "https://www.etstore.in/products/g7289",
+    "status": "high-confidence"
+  },
+  {
+    "title": "LM2596 3A DC to DC Buck Converter",
+    "link": "https://www.etstore.in/products/c5263",
+    "status": "high-confidence"
+  },
+  {
+    "title": "LM3488",
+    "link": "https://robu.in/product/lm3488mmx-nopb-texas-instruments-boost-type-adjustable-1a-2-97v40v-vssop-8-0-65mm-dc-dc-converters-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Screw Terminal 2P",
+    "link": "https://www.etstore.in/products/g7165",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10K resistor 0805",
+    "link": "https://www.etstore.in/products/e9749",
+    "status": "high-confidence"
+  },
+  {
+    "title": "SS34 214AC",
+    "link": "https://sharvielectronics.com/product/ss34-sma-40v-3a-schottky-diode-smd-package-do-214ac",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100uf smd",
+    "link": "https://www.etstore.in/products/a2425",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10uf smd",
+    "link": "https://www.etstore.in/products/e9211",
+    "status": "high-confidence"
+  },
+  {
+    "title": "LM256s TO-263",
+    "link": "https://sharvielectronics.com/product/lm2596s-5-0-5v-3a-150khz-step-down-switching-regulator-htc-to-263-5-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "CDRH104 - 47uH",
+    "link": "https://sharvielectronics.com/product/cdrh104r-47uh-power-inductor",
+    "status": "high-confidence"
+  },
+  {
+    "title": "2K - Trimpot",
+    "link": "https://www.etstore.in/products/a1094",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1K resistor - 1206",
+    "link": "https://www.etstore.in/products/e9752",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100nf -1206",
+    "link": "https://www.etstore.in/products/e9211",
+    "status": "high-confidence"
+  },
+  {
+    "title": "220uf capacitor smd",
+    "link": "https://www.etstore.in/products/a1842",
+    "status": "high-confidence"
+  },
+  {
+    "title": "smd led blue - 0805",
+    "link": "https://www.etstore.in/products/g7025",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100nf - 0805",
+    "link": "https://www.etstore.in/products/e9276",
+    "status": "high-confidence"
+  },
+  {
+    "title": "TL431 sot23",
+    "link": "https://www.etstore.in/products/a1574",
+    "status": "high-confidence"
+  },
+  {
+    "title": "2.2K resistor - 0805",
+    "link": "https://www.etstore.in/products/e9748",
+    "status": "high-confidence"
+  },
+  {
+    "title": "LM358 - SOIC8",
+    "link": "https://sharvielectronics.com/product/lm358dr-industry-standard-dual-operational-amplifier-soic-8-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "220 ohm resistor - 0805",
+    "link": "https://www.etstore.in/products/e9746",
+    "status": "high-confidence"
+  },
+  {
+    "title": "IRFZ44 - smd",
+    "link": "https://sharvielectronics.com/product/irfz44nstrlpbf-55v-59a-n-channel-power-mosfet-transistor-to-263-3-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Screw Terminal 4P",
+    "link": "https://sharvielectronics.com/product/128-5-08-4-pin-screw-terminal-block-5-08mm-pitch",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100k resistor - 0805",
+    "link": "https://www.etstore.in/products/g7835",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100 ohm resistor - 0805",
+    "link": "https://www.etstore.in/products/e9743",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10uf smd 0805",
+    "link": "https://www.etstore.in/products/e9248",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10V zener sod 8",
+    "link": "https://sharvielectronics.com/product/10v-500mw-zener-diode-bzv55-c10-sod80c-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1K resistor - 0805",
+    "link": "https://www.etstore.in/products/e9750",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1K - Trimpot",
+    "link": "https://www.etstore.in/products/a1864",
+    "status": "high-confidence"
+  },
+  {
+    "title": "smbj15A",
+    "link": "https://www.etstore.in/products/g7868",
+    "status": "high-confidence"
+  },
+  {
+    "title": "smd mosfet",
+    "link": "https://www.etstore.in/products/g7765",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BIGTREETECH TMC5160T V1.0 Stepper Motor Driver",
+    "link": "https://robu.in/product/bigtreetech-tmc5160t-v1-0",
+    "status": "high-confidence"
+  },
+  {
+    "title": "TMC5160T V1.0 Stepper Motor Driver",
+    "link": "https://robu.in/product/bigtreetech-tmc5160t-v1-0/ , https://novo3d.in/tmc5160t-driver",
+    "status": "high-confidence"
+  },
+  {
+    "title": "7Semi HX711, Load Cell Amplifier",
+    "link": "https://robu.in/product/7semi-hx711-load-cell-amplifier-24bit-adc-for-weigh-scales",
+    "status": "high-confidence"
+  },
+  {
+    "title": "ESP32 S3 WROOM 1 N16R8",
+    "link": "https://robu.in/product/esp32-s3-devkit-esp32-s3-wroom-1-n16r8",
+    "status": "high-confidence"
+  },
+  {
+    "title": "DC female jack",
+    "link": "https://www.etstore.in/products/b8367",
+    "status": "high-confidence"
+  },
+  {
+    "title": "DOT bord",
+    "link": "https://www.etstore.in/products/c5431",
+    "status": "high-confidence"
+  },
+  {
+    "title": "ON/OFF switch",
+    "link": "https://www.etstore.in/products/b8836",
+    "status": "high-confidence"
+  },
+  {
+    "title": "motor driver",
+    "link": "https://www.etstore.in/products/c5186",
+    "status": "high-confidence"
+  },
+  {
+    "title": "OPA177CM/TR",
+    "link": "https://sharvielectronics.com/product/opa177-ultra-precision-low-noise-bipolar-operational-amplifier-soic-8-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "33k",
+    "link": "https://sharvielectronics.com/product/33k-ohm-1-8-watt-resistor-1-tolerance-0805s8j0333t5e-0805-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100nf cap",
+    "link": "https://www.etstore.in/products/e9276",
+    "status": "high-confidence"
+  },
+  {
+    "title": "SMCJ58CA/TR13",
+    "link": "https://sharvielectronics.com/product/smcj58ca-58v-1500w-esd-suppressor-tvs-diode-do-214ab-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "12v tvs",
+    "link": "https://www.etstore.in/products/e9914",
+    "status": "high-confidence"
+  },
+  {
+    "title": "led g",
+    "link": "https://www.etstore.in/products/g7024",
+    "status": "high-confidence"
+  },
+  {
+    "title": "68uH",
+    "link": "https://sharvielectronics.com/product/ms127-680mt-68uh-2-1a-smd-power-inductor-with-\u00b120-tolerance",
+    "status": "high-confidence"
+  },
+  {
+    "title": "SQJ476EP-T1_BE3",
+    "link": "https://sharvielectronics.com/product/sqj476ep-t1_ge3-100v-23a-n-channel-power-mosfet-powerpak-so-8-4-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "47uf",
+    "link": "https://sharvielectronics.com/product/47uf-100v-electrolytic-capacitor-10x10-mm-jwco-smd",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1nf 1206",
+    "link": "https://www.etstore.in/products/a2368",
+    "status": "high-confidence"
+  },
+  {
+    "title": "2.2uf",
+    "link": "https://sharvielectronics.com/product/2-2uf-2200nf-100v-capacitor-\u00b110-tolerance-cc1206kkx7r0bb225-1206-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "47pf",
+    "link": "https://sharvielectronics.com/product/47pf-0-047nf-100v-capacitor-5-tolerance-cc0805crnpobn470-0805-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100pf",
+    "link": "https://sharvielectronics.com/product/100pf-0-1nf-100v-capacitor-\u00b15-tolerance-cc0805crnpobn101-0805-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "2.2uf c805",
+    "link": "https://www.etstore.in/products/e9205",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1N4148WL T4",
+    "link": "https://www.etstore.in/products/a1612",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1.5uH",
+    "link": "https://sharvielectronics.com/product/cd32-1r5-1-5uh-2-4a-smd-high-power-inductor-cd32-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "ferrite beed",
+    "link": "https://sharvielectronics.com/product/30-ohm-100mhz-4a-ferrite-bead-\u00b125-tolerance-blm21pg300sn1d-0805-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "XY2500V-D-5.08-4P",
+    "link": "https://www.etstore.in/products/e9669",
+    "status": "high-confidence"
+  },
+  {
+    "title": "XY2500V-D-5.08-4P female",
+    "link": "https://www.etstore.in/products/b8215",
+    "status": "high-confidence"
+  },
+  {
+    "title": "XY2500V-C-5.08-3P",
+    "link": "https://sharvielectronics.com/product/xy2500vd-5-08-3-pin-close-type-straight-terminal-block-male-connector-5-08mm-pitch-xinya",
+    "status": "high-confidence"
+  },
+  {
+    "title": "XY2500V-C-5.08-3P female",
+    "link": "https://sharvielectronics.com/product/xy2500vd-5-08-3-pin-close-type-straight-terminal-block-male-connector-5-08mm-pitch-xinya",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10pf",
+    "link": "https://www.etstore.in/products/e9175",
+    "status": "high-confidence"
+  },
+  {
+    "title": "510k",
+    "link": "https://www.etstore.in/products/e9148",
+    "status": "high-confidence"
+  },
+  {
+    "title": "14k",
+    "link": "https://www.etstore.in/products/e9120",
+    "status": "high-confidence"
+  },
+  {
+    "title": "620.0",
+    "link": "https://www.etstore.in/products/e9091",
+    "status": "high-confidence"
+  },
+  {
+    "title": "22E",
+    "link": "https://www.etstore.in/products/g7828",
+    "status": "high-confidence"
+  },
+  {
+    "title": "470pf",
+    "link": "https://www.etstore.in/products/e9261",
+    "status": "high-confidence"
+  },
+  {
+    "title": "18pf",
+    "link": "https://www.etstore.in/products/e9177",
+    "status": "high-confidence"
+  },
+  {
+    "title": "220pf",
+    "link": "https://www.etstore.in/products/e9187",
+    "status": "high-confidence"
+  },
+  {
+    "title": "680pf",
+    "link": "https://www.etstore.in/products/e9191",
+    "status": "high-confidence"
+  },
+  {
+    "title": "ss34",
+    "link": "https://www.etstore.in/products/a1339",
+    "status": "high-confidence"
+  },
+  {
+    "title": "12v zenner",
+    "link": "https://www.etstore.in/products/a1350",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10pf re",
+    "link": "https://sharvielectronics.com/product/10pf-0-01nf-100v-capacitor-\u00b15-tolerance-cc0805crnpo0bn100-0805-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100uf 450v",
+    "link": "https://robu.in/product/450bxw100mefr18x30-rubycon-100uf-450v-%c2%b120-plugind18xl30mm-aluminum-electrolytic-capacitors-leaded-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "IN4007",
+    "link": "https://sharvielectronics.com/product/mic-1n4007-general-purpose-rectifier-diode-do-41-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "120k resistor",
+    "link": "https://www.etstore.in/products/d10134",
+    "status": "high-confidence"
+  },
+  {
+    "title": "6.8k resistor",
+    "link": "https://www.etstore.in/products/d10069",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100k resistor",
+    "link": "https://www.etstore.in/products/d10078",
+    "status": "high-confidence"
+  },
+  {
+    "title": "12k resistor",
+    "link": "https://www.etstore.in/products/d10070",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1NJ100 capacitor",
+    "link": "https://www.etstore.in/products/a2477",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10uf 63v capacitor",
+    "link": "https://www.etstore.in/products/d10208",
+    "status": "high-confidence"
+  },
+  {
+    "title": "47 ohm resistor",
+    "link": "https://www.etstore.in/products/d10039",
+    "status": "high-confidence"
+  },
+  {
+    "title": "UC3845BN",
+    "link": "https://robu.in/product/uc3845bng-onsemi-pwm-controller-12v25v-supply-52khz-200ma-out-dip8",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100k 1W resistor",
+    "link": "https://www.etstore.in/products/d10437",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BC327",
+    "link": "https://www.etstore.in/products/a1205",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BS170",
+    "link": "https://www.etstore.in/products/a1207",
+    "status": "high-confidence"
+  },
+  {
+    "title": "FQP2N90",
+    "link": "https://robu.in/product/fqp2n90-on-semiconductor-power-mosfet-n-channel",
+    "status": "high-confidence"
+  },
+  {
+    "title": "22 ohm resistor",
+    "link": "https://www.etstore.in/products/d10048",
+    "status": "high-confidence"
+  },
+  {
+    "title": "UF4007",
+    "link": "https://www.etstore.in/products/a1241",
+    "status": "high-confidence"
+  },
+  {
+    "title": "mbr20200",
+    "link": "https://www.etstore.in/products/a1438",
+    "status": "high-confidence"
+  },
+  {
+    "title": "SR5200",
+    "link": "https://www.etstore.in/products/g7284",
+    "status": "high-confidence"
+  },
+  {
+    "title": "ULN4007A",
+    "link": "https://robu.in/product/uln2004a-stmicroelectronics-darlington-transistor-darlington-npn-50-v-500-ma-dip-16-pins",
+    "status": "high-confidence"
+  },
+  {
+    "title": "LCX16245",
+    "link": "https://robu.in/product/74lcx16245mtd-fairchild-semiconductor-transceiver-non-inverting-2-element-8-bit-per-element-3-state-output-48-tssop",
+    "status": "high-confidence"
+  },
+  {
+    "title": "2K resistor 0805",
+    "link": "https://www.etstore.in/products/e9101",
+    "status": "high-confidence"
+  },
+  {
+    "title": "TL084 -Operational Amplifier",
+    "link": "https://robu.in/product/tl084cpwr-texas-instruments-operational-amplifier-4-channels-3-mhz-13-v-%C2%B5s-7v-to-36v-tssop-14-pins",
+    "status": "high-confidence"
+  },
+  {
+    "title": "4.7 k\u03a9 resistor",
+    "link": "https://sharvielectronics.com/product/4-7k-ohm-1-4-watt-resistor-1-tolerance-5-pieces-pack",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10 k\u03a9 resistor",
+    "link": "https://sharvielectronics.com/product/10k-ohm-1-4-watt-resistor-1-tolerance",
+    "status": "high-confidence"
+  },
+  {
+    "title": "IN4007 diode",
+    "link": "https://sharvielectronics.com/product/mic-1n4007-general-purpose-rectifier-diode-do-41-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "N-Channel MOSFETs -IRF540N",
+    "link": "https://sharvielectronics.com/product/irf540npbf-n-channel-hexfet-power-mosfet-to-220-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Header 3 pin",
+    "link": "https://sharvielectronics.com/product/xy2500-3-pin-3-5mm-pitch-straight-male-terminal-block-connector-pcb-mount",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Header 2 pin",
+    "link": "https://sharvielectronics.com/product/xy2500-2-pin-3-5mm-pitch-straight-male-terminal-block-connector-pcb-mount",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Heat sink",
+    "link": "https://sharvielectronics.com/product/heat-sink-to220-package-pi49-20mm",
+    "status": "high-confidence"
+  },
+  {
+    "title": "AS431",
+    "link": "https://robu.in/product/az431az-atre1-diodes-incorporated-shunt-voltage-reference-ic-adj-2-5v-to-92",
+    "status": "high-confidence"
+  },
+  {
+    "title": "TIP35C-HLF",
+    "link": "https://robu.in/product/tip35c-hlf-bipolar-transistors-npn-power-ic",
+    "status": "high-confidence"
+  },
+  {
+    "title": "4.7uf/50V",
+    "link": "https://robu.in/product/ers1hm4r7d11ot-aishi-4-7uf-50v-%C2%B120-plugind5xl11mm-aluminum-electrolytic-capacitors-leaded-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "MSP430F1101A",
+    "link": "https://robu.in/product/msp430f1101aidwr-texas-instruments-soic-20-300mil-microcontrollers-mcu-mpu-soc-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "mcp4018 digi pot",
+    "link": "https://sharvielectronics.com/product/mcp4018-i2c-digital-potentiometer-breakout-module-100k\u03c9-128-step",
+    "status": "high-confidence"
+  },
+  {
+    "title": "INA226",
+    "link": "https://sharvielectronics.com/product/ina226-i2c-bi-directional-voltage-current-power-alert-monitor-module",
+    "status": "high-confidence"
+  },
+  {
+    "title": "lcd",
+    "link": "https://sharvielectronics.com/product/2004-20x4-green-lcd-display-with-built-in-i2c-5v-input-supply",
+    "status": "high-confidence"
+  },
+  {
+    "title": "pcb proto",
+    "link": "https://sharvielectronics.com/product/single-sided-universal-pcb-prototype-board-9x15cm-green",
+    "status": "high-confidence"
+  },
+  {
+    "title": "dpdt switch",
+    "link": "https://sharvielectronics.com/product/kcd4-201n-r-dpdt-on-off-16a-rocker-switch-with-red-light-indication",
+    "status": "high-confidence"
+  },
+  {
+    "title": "ULN2004A",
+    "link": "https://robu.in/product/uln2004adr-texas-instruments-transistor-array-ic-number-of-transistor",
+    "status": "high-confidence"
+  },
+  {
+    "title": "74HC4053",
+    "link": "https://robu.in/product/74hc4053d653-nxp-analog-multiplexer-demultiplexer-21-3-circuits-2v-to-10v-soic16",
+    "status": "high-confidence"
+  },
+  {
+    "title": "74HCT273D",
+    "link": "https://robu.in/product/74hct273d653-octal-d-type-flip-flop-positive-edge-trigger-smd-so20-nexperia",
+    "status": "high-confidence"
+  },
+  {
+    "title": "74HC4051",
+    "link": "https://robu.in/product/74hc4051d653-nexperia-analog-multiplexer-demultiplexer-81-1-circuit-2v-to-10v-soic-16",
+    "status": "high-confidence"
+  },
+  {
+    "title": "DG408",
+    "link": "https://robu.in/product/dg408dy-t1-e3-vishay-intertech-100%cf%89-8-soic-16-analog-switches-multiplexers-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "LMC6482",
+    "link": "https://robu.in/product/lmc6482idt-stmicroelectronics-operational-amplifier-rrio-2-amplifier-2-7-mhz-1-4-v-%c2%b5s-2-7v-to-16v-soic-8-pins",
+    "status": "high-confidence"
+  },
+  {
+    "title": "LM78L05",
+    "link": "https://robu.in/product/lm78l05aim-nopb-texas-instruments-linear-voltage-regulator-7805-fixed-6-7v-to-35v-in-5v-and-0-1a-out-soic-8",
+    "status": "high-confidence"
+  },
+  {
+    "title": "TL082",
+    "link": "https://robu.in/product/tl082idt-stmicroelectronics-operational-amplifier-dual-2-amplifier-4-mhz-16-v-%c2%b5s-6v-to-36v-soic-8-pins",
+    "status": "high-confidence"
+  },
+  {
+    "title": "74HC259",
+    "link": "https://robu.in/product/sn74hc259d-texas-instruments-latch-74hc259-addressable-standard-28-ns-5-2-ma-soic",
+    "status": "high-confidence"
+  },
+  {
+    "title": "24LC16B",
+    "link": "https://robu.in/product/24lc16b-i-sn-microchip-eeprom-16-kbit-8-blk-256-x-8bit-serial-i2c-2-wire-400-khz-soic-8-pins",
+    "status": "high-confidence"
+  },
+  {
+    "title": "74HC139",
+    "link": "https://robu.in/product/74hc139d653-dual-2-4-line-decoder-demultiplexer-smd-so16-nexperia",
+    "status": "high-confidence"
+  },
+  {
+    "title": "74HC14",
+    "link": "https://robu.in/product/mm74hc14mx-6v-hex-inverting-schmitt-trigger-14-pin-soic-on-semiconductor",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10K trim pot",
+    "link": "https://www.etstore.in/products/d10249",
+    "status": "high-confidence"
+  },
+  {
+    "title": "220nF",
+    "link": "https://www.etstore.in/products/e9202",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100 ohm 1W 2512",
+    "link": "https://robu.in/product/rc2512fk-07100rl-yageo-smd-chip-resistor-100-ohm-%c2%b1-1-1-w-2512-6432-metric-thick-film-general-purpose",
+    "status": "high-confidence"
+  },
+  {
+    "title": "L6562D",
+    "link": "https://robu.in/product/l6562d-stmicroelectronics-pfc-controller-ic-10-3-v-to-22-v-3-5-ma-supply-10-3-v-lockout-30-%ce%bca-start-up-70-khz-soic-8",
+    "status": "high-confidence"
+  },
+  {
+    "title": "IRFR430A",
+    "link": "https://robu.in/product/irfr430atrpbf-vishay-power-mosfet-n-channel-500-v-5-a-1-7-ohm-to-252-dpak-surface-mount",
+    "status": "high-confidence"
+  },
+  {
+    "title": "8R1K4CE",
+    "link": "https://robu.in/product/irfr430atrpbf-vishay-power-mosfet-n-channel-500-v-5-a-1-7-ohm-to-252-dpak-surface-mount",
+    "status": "high-confidence"
+  },
+  {
+    "title": "power supply",
+    "link": "https://robu.in/product/owon-spe15054-dc-power-supply",
+    "status": "high-confidence"
+  },
+  {
+    "title": "pow_supply_hentek",
+    "link": "https://robu.in/product/hantek-hdp1160v4s-programmable-dc-power-supply-160v-4a",
+    "status": "high-confidence"
+  },
+  {
+    "title": "power_supply_30v",
+    "link": "https://robu.in/product/pro-range-a3005-30v-5a-adjustable-dc-power-supply",
+    "status": "high-confidence"
+  },
+  {
+    "title": "function generator",
+    "link": "https://robu.in/product/multi-function-waveform-generator",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BAV99W",
+    "link": "https://robu.in/product/bav99wt1g-onsemi-bav99wt1g-small-signal-diode-dual-series-70-v-200-ma-1-v-6-ns-2-a",
+    "status": "high-confidence"
+  },
+  {
+    "title": "TL084I",
+    "link": "https://robu.in/product/tl084idr-texas-instruments-15mv-3mhz-200pa-quad-soic-14-fet-input-amplifiers-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "LM339",
+    "link": "https://robu.in/product/lm339dt-stmicroelectronics-analogue-comparator-quad-precision-voltage-4-channels-1-3-%c2%b5s-2v-to-36v-soic-14-pins",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BAV70W",
+    "link": "https://robu.in/product/bav70w115-nexperia-bav70w115-small-signal-diode-dual-common-cathode-100-v-175-ma-1-25-v-4-ns-4-a",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BC807-40",
+    "link": "https://robu.in/product/bc807-40w135-nexperia-45v-290mw-250100ma1v-500ma-pnp-sot-323-3-bipolar-bjt-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "PWM IC",
+    "link": "https://robu.in/product/uc3844ad8-texas-instruments-current-mode-pwm-25v-12v-supply-500-khz-5v-200ma-out-soic-8",
+    "status": "high-confidence"
+  },
+  {
+    "title": "74HC175D",
+    "link": "https://robu.in/product/74hc175d653-quad-d-type-flip-flop-positive-edge-trigger-smd-so16-nexperia",
+    "status": "high-confidence"
+  },
+  {
+    "title": "74HC4051D",
+    "link": "https://robu.in/product/74hc4051d653-nexperia-10v-8-channel-analog-multiplexer-demultiplexer-16-pin-soic",
+    "status": "high-confidence"
+  },
+  {
+    "title": "74HC259D",
+    "link": "https://robu.in/product/sn74hc259d-texas-instruments-latch-74hc259-addressable-standard-28-ns-5-2-ma-soic",
+    "status": "high-confidence"
+  },
+  {
+    "title": "74HC139D",
+    "link": "https://robu.in/product/74hc139d653-nexperia-decoder-demultiplexer-hc-family-2-gate-2-input-8-output-5-2-ma-2-v-to-6-v-soic-16",
+    "status": "high-confidence"
+  },
+  {
+    "title": "ULN2004",
+    "link": "https://robu.in/product/uln2004adtr-xblw-seven-channels-50v-500ma-sop-16-darlington-transistor-arrays/s-roh",
+    "status": "high-confidence"
+  },
+  {
+    "title": "tip35",
+    "link": "https://sharvielectronics.com/product/tip35c-npn-power-amplifier-transistor-100v-25a-to-247-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "2n5551",
+    "link": "https://sharvielectronics.com/product/2n5551-npn-general-purpose-transistor-160v-600ma-to-92-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "terminal 3p",
+    "link": "https://www.etstore.in/products/b8742",
+    "status": "high-confidence"
+  },
+  {
+    "title": "terminal 4p",
+    "link": "https://www.etstore.in/products/e9669",
+    "status": "high-confidence"
+  },
+  {
+    "title": "terminal 4p f",
+    "link": "https://www.etstore.in/products/b8688",
+    "status": "high-confidence"
+  },
+  {
+    "title": "470uf 100v",
+    "link": "https://www.etstore.in/products/a2240",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100uf",
+    "link": "https://www.etstore.in/products/a2242",
+    "status": "high-confidence"
+  },
+  {
+    "title": "0.1uf",
+    "link": "https://sharvielectronics.com/product/0-1uf-100nf-100v-capacitor-\u00b110-tolerance-cc1206krx7r0bb104-1206-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "ss5200",
+    "link": "https://www.etstore.in/products/d11107",
+    "status": "high-confidence"
+  },
+  {
+    "title": "us2m",
+    "link": "https://www.etstore.in/products/a2452",
+    "status": "high-confidence"
+  },
+  {
+    "title": "22uf",
+    "link": "https://www.etstore.in/products/g7795",
+    "status": "high-confidence"
+  },
+  {
+    "title": "18v zener",
+    "link": "https://www.etstore.in/products/d11461",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100milli",
+    "link": "https://www.etstore.in/products/e9315",
+    "status": "high-confidence"
+  },
+  {
+    "title": "6.8k 1w",
+    "link": "https://www.etstore.in/products/d10426",
+    "status": "high-confidence"
+  },
+  {
+    "title": "2.2k 2W",
+    "link": "https://sharvielectronics.com/product/2-2k-ohm-2-watt-resistor-5-tolerance",
+    "status": "high-confidence"
+  },
+  {
+    "title": "33.0",
+    "link": "https://www.etstore.in/products/d10025",
+    "status": "high-confidence"
+  },
+  {
+    "title": "47k",
+    "link": "https://sharvielectronics.com/product/47k-ohm-1-8-watt-resistor-1-tolerance-rct0547kf-lf-0805-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "LED Green",
+    "link": "https://www.etstore.in/products/g7003",
+    "status": "high-confidence"
+  },
+  {
+    "title": "LED LED",
+    "link": "https://www.etstore.in/products/g7004",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1N4007",
+    "link": "https://www.etstore.in/products/g7302",
+    "status": "high-confidence"
+  },
+  {
+    "title": "P6KE33CA",
+    "link": "https://www.etstore.in/products/g7453",
+    "status": "high-confidence"
+  },
+  {
+    "title": "P6KE12CA",
+    "link": "https://www.etstore.in/products/e9403",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1.2K resistor",
+    "link": "https://www.etstore.in/products/d10059",
+    "status": "high-confidence"
+  },
+  {
+    "title": "resistor 470R",
+    "link": "https://www.etstore.in/products/d10347",
+    "status": "high-confidence"
+  },
+  {
+    "title": "resistor 100ohm",
+    "link": "https://www.etstore.in/products/d11466",
+    "status": "high-confidence"
+  },
+  {
+    "title": "LM317 TO-220",
+    "link": "https://www.etstore.in/products/a1072",
+    "status": "high-confidence"
+  },
+  {
+    "title": "zener 9.1V",
+    "link": "https://www.etstore.in/products/a1359",
+    "status": "high-confidence"
+  },
+  {
+    "title": "PBSS303PZ",
+    "link": "https://robu.in/product/pbss303px115-nexperia-30v-2-1w-2002a2v-5-1a-pnp-sot-89-3-bipolar-bjt-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "L6565D",
+    "link": "https://robu.in/product/l6565d-stmicroelectronics-l6565d-switched-mode-power-supply-controller-18v-10-3v-supply-200ma-out-soic-8",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BAV99 A7W",
+    "link": "http://robu.in/product/bav99-slkor-75v-1-pair-in-series-1-25v-4ns-215ma-sot-23-switching-diodes-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BCX70H AHW",
+    "link": "http://robu.in/product/bcx71h215-nexperia-45v-250mw-3010ua5v-100ma-pnp-sot-23-bipolar-bjt-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BCX71H BHW",
+    "link": "https://robu.in/product/bcx71j215-nexperia-45v-250mw-4010ua5v-100ma-pnp-sot-23-bipolar-bjt-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BZT52-C2V4 W2",
+    "link": "https://robu.in/product/bzt52c2v4-slkor-independent-type-2-2v2-6v-500mw-2-4v-sod-123-zener-diodes-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BZX384 L3",
+    "link": "https://robu.in/product/bzx384-c6v8115-nexperia-independent-6-4v7-2v-300mw-6-8v-sod-323-zener-diodes-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BZT52-C2V4 W9",
+    "link": "https://robu.in/product/bzt52c2v4-mdd-independent-2-28v2-56v-500mw-2-4v-sod-123-zener-diodes-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "MBRF20100CT",
+    "link": "https://robu.in/product/mbrf20100ct-mdd-100v-1-pair-common-cathode-850mv10a-20a-ito-220ab-3-schottky-diodes-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1000.0",
+    "link": "https://www.etstore.in/products/e9077",
+    "status": "high-confidence"
+  },
+  {
+    "title": "22R0",
+    "link": "https://www.etstore.in/products/e9005",
+    "status": "high-confidence"
+  },
+  {
+    "title": "34B",
+    "link": "https://www.etstore.in/products/g7552",
+    "status": "high-confidence"
+  },
+  {
+    "title": "810.0",
+    "link": "https://www.etstore.in/products/e9234",
+    "status": "high-confidence"
+  },
+  {
+    "title": "65A",
+    "link": "https://www.etstore.in/products/g7553",
+    "status": "high-confidence"
+  },
+  {
+    "title": "cap",
+    "link": "https://robu.in/product/c3225x7s1h106kt000n-tdk-50v-10uf-x7s%c2%b110-1210-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "103.0",
+    "link": "https://www.etstore.in/products/e9445",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BZX384",
+    "link": "https://robu.in/product/bzx384-c12115-nexperia-bzx384-c12115-zener-single-diode-12-v-300-mw-sod-323-2-pins-150-c-surface-mount",
+    "status": "high-confidence"
+  },
+  {
+    "title": "MM74HC14M",
+    "link": "https://robu.in/product/mm74hc14m-onsemi",
+    "status": "high-confidence"
+  },
+  {
+    "title": "SMBJ30A TVS Diode",
+    "link": "https://www.etstore.in/products/d11472",
+    "status": "high-confidence"
+  },
+  {
+    "title": "4.7uf",
+    "link": "https://www.etstore.in/products/e9250",
+    "status": "high-confidence"
+  },
+  {
+    "title": "3.3nf",
+    "link": "https://www.etstore.in/products/e9194",
+    "status": "high-confidence"
+  },
+  {
+    "title": "220uf",
+    "link": "https://www.etstore.in/products/d10762",
+    "status": "high-confidence"
+  },
+  {
+    "title": "4.7uf_805",
+    "link": "https://www.etstore.in/products/e9206",
+    "status": "high-confidence"
+  },
+  {
+    "title": "headder terminal_male",
+    "link": "https://www.etstore.in/products/b8820",
+    "status": "high-confidence"
+  },
+  {
+    "title": "terminal 2pin female",
+    "link": "https://www.etstore.in/products/b8728",
+    "status": "high-confidence"
+  },
+  {
+    "title": "terminal 3 pin male",
+    "link": "https://www.etstore.in/products/b8782",
+    "status": "high-confidence"
+  },
+  {
+    "title": "IRFR5305TRPBF",
+    "link": "https://www.etstore.in/products/a2531",
+    "status": "high-confidence"
+  },
+  {
+    "title": "47r",
+    "link": "https://www.etstore.in/products/e9310",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10milli",
+    "link": "https://www.etstore.in/products/e9227",
+    "status": "high-confidence"
+  },
+  {
+    "title": "0 R",
+    "link": "https://www.etstore.in/products/e9043",
+    "status": "high-confidence"
+  },
+  {
+    "title": "atmeag328",
+    "link": "https://www.etstore.in/products/a1105",
+    "status": "high-confidence"
+  },
+  {
+    "title": "ams1117 3.3",
+    "link": "https://www.etstore.in/products/g7335",
+    "status": "high-confidence"
+  },
+  {
+    "title": "crystal",
+    "link": "https://www.etstore.in/products/b8228",
+    "status": "high-confidence"
+  },
+  {
+    "title": "ss8050",
+    "link": "https://www.etstore.in/products/a1956",
+    "status": "high-confidence"
+  },
+  {
+    "title": "2.4V 500mW Zener Diode",
+    "link": "https://sharvielectronics.com/product/2-4v-500mw-zener-diode-bzv55-c2v4-sod80c-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "14 k resistor",
+    "link": "https://robu.in/product/rc0402fr-0714kl-yageo-res-thick-film-0402-14k-ohm-1-0-063w1-16w-%C2%B1100ppm-c-pad-smd-t-r",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1n f capacitor",
+    "link": "https://robu.in/product/04025c102kat2a-kyocera-avx-50v-1nf-x7r-%c2%b110-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "0.1 uf cap 0402",
+    "link": "https://robu.in/product/yageo-0-1uf-50v-smd-multilayer-ceramic-capacitor-pack-of-50",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1 nf cap 0402",
+    "link": "https://robu.in/product/1-nf-50v-0402-smd-multi-layer-ceramic-capacitor-0402b102k500ct-walsin-pack-of-20",
+    "status": "high-confidence"
+  },
+  {
+    "title": "14 k ohm 0402",
+    "link": "https://robu.in/product/rc0402fr-0714kl-yageo-res-thick-film-0402-14k-ohm-1-0-063w1-16w-%C2%B1100ppm-c-pad-smd-t-r",
+    "status": "high-confidence"
+  },
+  {
+    "title": "51 0hm 0603",
+    "link": "https://robu.in/product/ac0603fr-0751rl-yageo-res-thick-film-0603-51-ohm-1-0-1w1-10w-%C2%B1100ppm-c-pad-smd-t-r-automotive-aec-q200",
+    "status": "high-confidence"
+  },
+  {
+    "title": "66 ohm,",
+    "link": "https://robu.in/product/rc0603fr-0763r4l-yageo-smd-chip-resistor-63-4-ohm-%C2%B1-1-100-mw-0603-1608-metric-thick-film-general-purpose",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1k ohm, 0201",
+    "link": "https://robu.in/product/ac0201jr-071kl-yageo-res-thick-film-0201-1k-ohm-5-0-05w1-20w-%C2%B1200ppm-c-pad-smd-t-r-automotive-aec-q200",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10nf cap 0402",
+    "link": "https://sharvielectronics.com/product/10nf-0-01uf-50v-capacitor-10-tolerance-cc0402krx7r9bb103-0402-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "2.2nf cap 0402",
+    "link": "https://robu.in/product/grt155r71h222ke01d-murata-electronics-50v-2-2nf-x7r-%c2%b110-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "10 nf 0402",
+    "link": "https://robu.in/product/tcc0402x7r103k101at-cctc-smt-ceramic-capacitors-0402-x7r-103k10nf%C2%B110-rated-voltage100v-thickness0-50mm-tape",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BAS16-7-F-DIODES",
+    "link": "https://robu.in/product/bas16-7-f-diodes-inc-bas16-7-f-small-signal-diode-single-75-v-200-ma-1-25-v-4-ns-2-a",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BAS16 signal diode",
+    "link": "https://robu.in/product/bas16-7-f-diodes-inc-bas16-7-f-small-signal-diode-single-75-v-200-ma-1-25-v-4-ns-2-a",
+    "status": "high-confidence"
+  },
+  {
+    "title": "SMAJ24A- tvs diode",
+    "link": "https://robu.in/product/smaj24a-13-f-diodes-incorporated-10-3a-400w8-3ms-38-9v-29-5v-unidirectional-24v-smado-214ac-esd-and-surge-protection-tvs-esd-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "TLP627M optocoupler",
+    "link": "https://robu.in/product/1-month-warranty-950",
+    "status": "high-confidence"
+  },
+  {
+    "title": "0.1uf C1206",
+    "link": "https://www.etstore.in/products/a2069",
+    "status": "high-confidence"
+  },
+  {
+    "title": "0.1 OHM R2512",
+    "link": "https://www.etstore.in/products/e9315",
+    "status": "high-confidence"
+  },
+  {
+    "title": "1N4007W",
+    "link": "https://www.etstore.in/products/a1144",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100PF C0805",
+    "link": "https://www.etstore.in/products/e9184",
+    "status": "high-confidence"
+  },
+  {
+    "title": "4.7K,1W",
+    "link": "https://www.etstore.in/products/d10424",
+    "status": "high-confidence"
+  },
+  {
+    "title": "6.8K 1 W",
+    "link": "https://www.etstore.in/products/d10426",
+    "status": "high-confidence"
+  },
+  {
+    "title": "33 OHM 1 W",
+    "link": "https://www.etstore.in/products/d10399",
+    "status": "high-confidence"
+  },
+  {
+    "title": "33 OHM 2W",
+    "link": "https://www.etstore.in/products/d10025",
+    "status": "high-confidence"
+  },
+  {
+    "title": "6.8K 2W",
+    "link": "https://www.etstore.in/products/d10500",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100 OHM 2W",
+    "link": "https://www.etstore.in/products/d10028",
+    "status": "high-confidence"
+  },
+  {
+    "title": "100UF /100V",
+    "link": "https://www.etstore.in/products/d10222",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BD140",
+    "link": "https://www.etstore.in/products/a1194",
+    "status": "high-confidence"
+  },
+  {
+    "title": "NTC10D",
+    "link": "https://www.etstore.in/products/c5981",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BUZZER 12*9",
+    "link": "https://www.etstore.in/products/c5577",
+    "status": "high-confidence"
+  },
+  {
+    "title": "470UF/100V",
+    "link": "https://www.etstore.in/products/a2240",
+    "status": "high-confidence"
+  },
+  {
+    "title": "PTC Fuse",
+    "link": "https://www.etstore.in/products/a2692",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Capacitor 100uf 100V",
+    "link": "https://www.etstore.in/products/d10222",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Terminal block XY2500V",
+    "link": "https://www.etstore.in/products/d10784",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Terminal block XY2500V 3P F",
+    "link": "https://www.etstore.in/products/b8742",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Terminal block XY2500V 4P F",
+    "link": "https://www.etstore.in/products/b8215",
+    "status": "high-confidence"
+  },
+  {
+    "title": "inductor 100uh",
+    "link": "https://www.etstore.in/products/d10720",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Capacitor 470uf 100V",
+    "link": "https://www.etstore.in/products/a2240",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Voltage regulator",
+    "link": "https://www.etstore.in/products/a1022",
+    "status": "high-confidence"
+  },
+  {
+    "title": "Capacitor 100uF 50V",
+    "link": "https://www.etstore.in/products/d10709",
+    "status": "high-confidence"
+  },
+  {
+    "title": "TIP35C ST 100V 25A",
+    "link": "https://www.etstore.in/products/a1177",
+    "status": "high-confidence"
+  },
+  {
+    "title": "12v fan",
+    "link": "https://sharvielectronics.com/product/4010-12vdc-0-15a-cooling-fan-40x40x10-mm",
+    "status": "high-confidence"
+  },
+  {
+    "title": "7812.0",
+    "link": "https://sharvielectronics.com/product/lm7812-12v-1-5a-positive-voltage-regulator-to-220-package",
+    "status": "high-confidence"
+  },
+  {
+    "title": "BAT54S",
+    "link": "https://robu.in/product/bat54s-7-f-diodes-incorporated-30v-1-pair-series-connection-800mv100ma-200ma-sot-23-schottky-diodes-rohs",
+    "status": "high-confidence"
+  },
+  {
+    "title": "27 ohm 1206 resistor",
+    "link": "https://robu.in/product/rc1206jr-0727rl-yageo-smd-chip-resistor-27-ohm-%C2%B1-5-250-mw-1206-3216-metric-thick-film-general-purpose",
+    "status": "high-confidence"
+  },
+  {
+    "title": "TCD8550",
+    "link": "https://www.etstore.in/products/a1436",
+    "status": "high-confidence"
+  }
+]
